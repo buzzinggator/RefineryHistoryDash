@@ -10,7 +10,7 @@ app1 = Dash(__name__, suppress_callback_exceptions=True)
 
 CSScolors = ['#AA0DFE', '#3283FE', '#85660D', '#782AB6', '#565656', '#1C8356', '#16FF32', '#F7E1A0', '#E2E2E2', '#1CBE4F', '#C4451C', '#DEA0FD', '#FE00FA', '#325A9B', '#FEAF16', '#F8A19F', '#90AD1C', '#F6222E', '#1CFFCE', '#2ED9FF', '#B10DA1', '#C075A6', '#FC1CBF', '#B00068', '#FBE426', '#FA0087']
 
-url = "https://github.com/buzzinggator/RefineryHistoryDash/blob/main/python%20refinery%20history.csv"
+url = "https://raw.githubusercontent.com/buzzinggator/RefineryHistoryDash/refs/heads/main/python%20refinery%20history.csv"
 df = pd.read_csv(url)
 tempPADD=df.copy()
 tempPADD['PADD'] = tempPADD['PADD'].astype(str)
