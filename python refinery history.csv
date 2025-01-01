@@ -286,7 +286,7 @@
 1983,118,Chevron USA,CA,Richmond,5,365000,Chevron,37.9498,-122.3988,Chevron
 1984,118,Chevron USA,CA,Richmond,5,365000,Chevron,37.9498,-122.3988,Chevron
 1985,118,Chevron USA,CA,Richmond,5,365000,Chevron,37.9498,-122.3988,Chevron
-2024,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,365000,Marathon,33.7729,-118.2864,Marathon
+2024,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,365000,Marathon,33.7729,-118.2864,Marathon
 1972,118,Standard Oil of California,CA,Richmond,5,365000,Independent,37.9498,-122.3988,Socal
 1973,118,Standard Oil of California,CA,Richmond,5,365000,Independent,37.9498,-122.3988,Socal
 1974,118,Standard Oil of California,CA,Richmond,5,365000,Independent,37.9498,-122.3988,Socal
@@ -307,11 +307,11 @@
 2007,462,Texaco,TX,Port Arthur/Neches,3,365000,Texaco,29.8600,-93.9692,Texaco
 2008,462,Texaco,TX,Port Arthur/Neches,3,365000,Texaco,29.8600,-93.9692,Texaco
 1986,67,ARCO,TX,Houston,3,363000,ARCO,29.7146,-95.2322,ARCO
-2019,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,363000,Marathon,33.7729,-118.2864,Marathon
-2020,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,363000,Marathon,33.7729,-118.2864,Marathon
-2021,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,363000,Marathon,33.7729,-118.2864,Marathon
-2022,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,363000,Marathon,33.7729,-118.2864,Marathon
-2023,82,Marathon Petroleum,CA,"Los Angeles (Carson, Watson)",5,363000,Marathon,33.7729,-118.2864,Marathon
+2019,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,363000,Marathon,33.7729,-118.2864,Marathon
+2020,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,363000,Marathon,33.7729,-118.2864,Marathon
+2021,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,363000,Marathon,33.7729,-118.2864,Marathon
+2022,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,363000,Marathon,33.7729,-118.2864,Marathon
+2023,82,Marathon Petroleum,CA,Los Angeles (Carson  Watson),5,363000,Marathon,33.7729,-118.2864,Marathon
 2017,15,ExxonMobil Refg & Supply,TX,Beaumont,3,362300,ExxonMobil,30.0675,-94.0705,ExxonMobil
 1975,163,Amoco Oil,IN,Whiting,2,360000,Independent,41.6685,-87.4811,Amoco
 1978,145,Amoco Oil,TX,Texas City (Galveston Bay),3,360000,Independent,29.3749,-94.9337,Amoco
@@ -705,7 +705,7 @@
 1985,15,Mobil Oil,TX,Beaumont,3,270000,Mobil Oil,30.0675,-94.0705,Mobil Oil
 1986,15,Mobil Oil,TX,Beaumont,3,270000,Mobil Oil,30.0675,-94.0705,Mobil Oil
 1987,15,Mobil Oil,TX,Beaumont,3,270000,Mobil Oil,30.0675,-94.0705,Mobil Oil
-2017,82,Tesoro,CA,"Los Angeles (Carson, Watson)",5,269200,Tesoro,33.7729,-118.2864,Tesoro
+2017,82,Tesoro,CA,Los Angeles (Carson  Watson),5,269200,Tesoro,33.7729,-118.2864,Tesoro
 1961,112,Gulf Oil,TX,Port Arthur,3,269040,Gulf Oil,29.8833,-93.9593,Gulf Oil
 1962,112,Gulf Oil,TX,Port Arthur,3,269040,Gulf Oil,29.8833,-93.9593,Gulf Oil
 1963,112,Gulf Oil,TX,Port Arthur,3,269040,Gulf Oil,29.8833,-93.9593,Gulf Oil
@@ -742,10 +742,10 @@
 1955,12,Standard Oil of New Jersy,LA,Baton Rouge,3,265600,Independent,30.4881,-91.1788,Standard Oil of New Jersy
 1956,12,Standard Oil of New Jersy,LA,Baton Rouge,3,265600,Independent,30.4881,-91.1788,Standard Oil of New Jersy
 2010,53,Chevron,CA,El Segundo,5,265500,Chevron,33.9093,-118.4079,Chevron
-2007,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,265000,BP,33.7729,-118.2864,BP
-2008,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,265000,BP,33.7729,-118.2864,BP
-2009,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,265000,BP,33.7729,-118.2864,BP
-2010,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,265000,BP,33.7729,-118.2864,BP
+2007,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,265000,BP,33.7729,-118.2864,BP
+2008,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,265000,BP,33.7729,-118.2864,BP
+2009,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,265000,BP,33.7729,-118.2864,BP
+2010,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,265000,BP,33.7729,-118.2864,BP
 1978,80,Exxon,NJ,Linden (Bayway),1,265000,Exxon,40.6357,-74.2222,Exxon
 1979,80,Exxon,NJ,Linden (Bayway),1,265000,Exxon,40.6357,-74.2222,Exxon
 1985,80,Exxon,NJ,Linden (Bayway),1,265000,Exxon,40.6357,-74.2222,Exxon
@@ -783,14 +783,14 @@
 2024,67,Access Industries,TX,Houston,3,263776,Independent,29.7146,-95.2322,Access Industries
 2000,67,Lyondell Citgo Refining Ltd,TX,Houston,3,262650,Independent,29.7146,-95.2322,Lyondell Citgo Refining Ltd
 2011,123,Flint Hills Resources LP,MN,Saint Paul (Rosemount Pine Bend),2,262000,Independent,44.7660,-93.0412,Flint Hills Resources
-2000,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,260000,ARCO,33.7729,-118.2864,ARCO
-2001,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,260000,ARCO,33.7729,-118.2864,ARCO
+2000,82,ARCO,CA,Los Angeles (Carson  Watson),5,260000,ARCO,33.7729,-118.2864,ARCO
+2001,82,ARCO,CA,Los Angeles (Carson  Watson),5,260000,ARCO,33.7729,-118.2864,ARCO
 1983,67,ARCO,TX,Houston,3,260000,ARCO,29.7146,-95.2322,ARCO
-2002,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,260000,BP,33.7729,-118.2864,BP
-2003,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,260000,BP,33.7729,-118.2864,BP
-2004,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,260000,BP,33.7729,-118.2864,BP
-2005,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,260000,BP,33.7729,-118.2864,BP
-2006,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,260000,BP,33.7729,-118.2864,BP
+2002,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,260000,BP,33.7729,-118.2864,BP
+2003,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,260000,BP,33.7729,-118.2864,BP
+2004,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,260000,BP,33.7729,-118.2864,BP
+2005,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,260000,BP,33.7729,-118.2864,BP
+2006,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,260000,BP,33.7729,-118.2864,BP
 2005,53,Chevron,CA,El Segundo,5,260000,Chevron,33.9093,-118.4079,Chevron
 2006,53,Chevron,CA,El Segundo,5,260000,Chevron,33.9093,-118.4079,Chevron
 2007,53,Chevron,CA,El Segundo,5,260000,Chevron,33.9093,-118.4079,Chevron
@@ -822,18 +822,18 @@
 2000,53,Chevron USA,CA,El Segundo,5,258000,Chevron,33.9093,-118.4079,Chevron
 1996,67,Lyondell Citgo Refining Ltd,TX,Houston,3,258000,Independent,29.7146,-95.2322,Lyondell Citgo Refining Ltd
 2018,80,Phillips 66,NJ,Linden (Bayway),1,258000,Phillips 66,40.6357,-74.2222,Phillips 66
-2015,82,Tesoro,CA,"Los Angeles (Carson, Watson)",5,257300,Tesoro,33.7729,-118.2864,Tesoro
+2015,82,Tesoro,CA,Los Angeles (Carson  Watson),5,257300,Tesoro,33.7729,-118.2864,Tesoro
 1982,96,Shell Oil,LA,Norco,3,257000,Independent,30.0014,-90.4019,Shell
-2016,82,Tesoro,CA,"Los Angeles (Carson, Watson)",5,256830,Tesoro,33.7729,-118.2864,Tesoro
+2016,82,Tesoro,CA,Los Angeles (Carson  Watson),5,256830,Tesoro,33.7729,-118.2864,Tesoro
 2008,62,Marathon Petroleum,LA,Garyville,3,256000,Marathon,30.0599,-90.5989,Marathon
 2009,62,Marathon Petroleum,LA,Garyville,3,256000,Marathon,30.0599,-90.5989,Marathon
 2018,143,Phillips 66,TX,Sweeny,3,256000,Phillips 66,29.0735,-95.7499,Phillips 66
 1995,43,Deer Park Refining Ltd Partnership,TX,Deer Park (Houston),3,255700,Independent,29.7216,-95.1287,Shell
 2020,16,Phillips 66,LA,Belle Chasse (Alliance),3,255600,Phillips 66,29.6830,-89.9747,Phillips 66
 2021,16,Phillips 66,LA,Belle Chasse (Alliance),3,255600,Phillips 66,29.6830,-89.9747,Phillips 66
-1996,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,255000,ARCO,33.7729,-118.2864,ARCO
-1997,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,255000,ARCO,33.7729,-118.2864,ARCO
-1999,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,255000,ARCO,33.7729,-118.2864,ARCO
+1996,82,ARCO,CA,Los Angeles (Carson  Watson),5,255000,ARCO,33.7729,-118.2864,ARCO
+1997,82,ARCO,CA,Los Angeles (Carson  Watson),5,255000,ARCO,33.7729,-118.2864,ARCO
+1999,82,ARCO,CA,Los Angeles (Carson  Watson),5,255000,ARCO,33.7729,-118.2864,ARCO
 1999,16,BP Amoco,LA,Belle Chasse (Alliance),3,255000,BP Amoco,29.6830,-89.9747,BP Amoco
 1998,16,BP Oil,LA,Belle Chasse (Alliance),3,255000,BP,29.6830,-89.9747,BP
 2004,80,ConocoPhillips,NJ,Linden (Bayway),1,255000,ConocoPhillips,40.6357,-74.2222,ConocoPhillips
@@ -876,7 +876,7 @@
 2019,16,Phillips 66,LA,Belle Chasse (Alliance),3,253600,Phillips 66,29.6830,-89.9747,Phillips 66
 2004,16,ConocoPhillips,LA,Belle Chasse (Alliance),3,253500,ConocoPhillips,29.6830,-89.9747,ConocoPhillips
 2003,16,Phillips 66,LA,Belle Chasse (Alliance),3,253500,Phillips 66,29.6830,-89.9747,Phillips 66
-2011,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,253000,BP,33.7729,-118.2864,BP
+2011,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,253000,BP,33.7729,-118.2864,BP
 2020,119,Marathon Petroleum,IL,Robinson,2,253000,Marathon,38.9970,-87.7169,Marathon
 2021,119,Marathon Petroleum,IL,Robinson,2,253000,Marathon,38.9970,-87.7169,Marathon
 2022,119,Marathon Petroleum,IL,Robinson,2,253000,Marathon,38.9970,-87.7169,Marathon
@@ -891,7 +891,7 @@
 2022,68,ExxonMobil,IL,Joliet,2,251800,ExxonMobil,41.4146,-88.1833,ExxonMobil
 2023,68,ExxonMobil,IL,Joliet,2,251800,ExxonMobil,41.4146,-88.1833,ExxonMobil
 2024,68,ExxonMobil,IL,Joliet,2,251800,ExxonMobil,41.4146,-88.1833,ExxonMobil
-2014,82,Tesoro,CA,"Los Angeles (Carson, Watson)",5,251000,Tesoro,33.7729,-118.2864,Tesoro
+2014,82,Tesoro,CA,Los Angeles (Carson  Watson),5,251000,Tesoro,33.7729,-118.2864,Tesoro
 1997,16,BP Oil,LA,Belle Chasse (Alliance),3,250400,BP,29.6830,-89.9747,BP
 2001,67,Lyondell Citgo Refining Ltd,TX,Houston,3,250350,Independent,29.7146,-95.2322,Lyondell Citgo Refining Ltd
 2000,16,BP Amoco,LA,Belle Chasse (Alliance),3,250000,BP Amoco,29.6830,-89.9747,BP Amoco
@@ -941,7 +941,7 @@
 2015,143,Phillips 66,TX,Sweeny,3,247000,Phillips 66,29.0735,-95.7499,Phillips 66
 2016,143,Phillips 66,TX,Sweeny,3,247000,Phillips 66,29.0735,-95.7499,Phillips 66
 2017,143,Phillips 66,TX,Sweeny,3,247000,Phillips 66,29.0735,-95.7499,Phillips 66
-2013,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,246000,BP,33.7729,-118.2864,BP
+2013,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,246000,BP,33.7729,-118.2864,BP
 2009,118,Chevron,CA,Richmond,5,245271,Chevron,37.9498,-122.3988,Chevron
 2010,118,Chevron,CA,Richmond,5,245271,Chevron,37.9498,-122.3988,Chevron
 2011,118,Chevron,CA,Richmond,5,245271,Chevron,37.9498,-122.3988,Chevron
@@ -966,7 +966,7 @@
 2001,114,Motiva Enterprises,TX,Port Arthur/Neches,3,245000,Motiva,29.8600,-93.9692,Motiva
 2002,114,Motiva Enterprises,TX,Port Arthur/Neches,3,245000,Motiva,29.8600,-93.9692,Motiva
 1969,168,Shell Oil,IL,Wood River,2,245000,Independent,38.8373,-90.0649,Shell
-2018,82,Andeavor,CA,"Los Angeles (Carson, Watson)",5,243800,Andeavor,33.7729,-118.2864,Andeavor
+2018,82,Andeavor,CA,Los Angeles (Carson  Watson),5,243800,Andeavor,33.7729,-118.2864,Andeavor
 2005,118,Chevron,CA,Richmond,5,242901,Chevron,37.9498,-122.3988,Chevron
 2006,118,Chevron,CA,Richmond,5,242901,Chevron,37.9498,-122.3988,Chevron
 2007,118,Chevron,CA,Richmond,5,242901,Chevron,37.9498,-122.3988,Chevron
@@ -981,7 +981,7 @@
 2015,28,Marathon Petroleum,KY,Catlettsburg,2,242000,Marathon,38.3771,-82.5967,Marathon
 2017,80,Phillips 66,NJ,Linden (Bayway),1,241000,Phillips 66,40.6357,-74.2222,Phillips 66
 2022,60,BP,WA,Ferndale (Cherry Point),5,240000,BP,48.8846,-122.7349,BP
-2012,82,BP WestCoast Products,CA,"Los Angeles (Carson, Watson)",5,240000,BP,33.7729,-118.2864,BP
+2012,82,BP WestCoast Products,CA,Los Angeles (Carson  Watson),5,240000,BP,33.7729,-118.2864,BP
 1978,76,Cities Service Oil,LA,Lake Charles,3,240000,Cities Service Oil,30.1336,-93.3210,Cities Service Oil
 2000,161,Conoco,LA,Westlake (Lake Charles),3,240000,Conoco,30.1835,-93.3291,Conoco
 1975,80,Exxon,NJ,Linden (Bayway),1,240000,Exxon,40.6357,-74.2222,Exxon
@@ -1045,10 +1045,10 @@
 2004,68,ExxonMobil Refg & Supply,IL,Joliet,2,237800,ExxonMobil,41.4146,-88.1833,ExxonMobil
 2016,96,Motiva Enterprises,LA,Norco,3,237700,Motiva,30.0014,-90.4019,Motiva
 1995,16,BP Oil,LA,Belle Chasse (Alliance),3,237500,BP,29.6830,-89.9747,BP
-1992,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,237000,ARCO,33.7729,-118.2864,ARCO
-1993,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,237000,ARCO,33.7729,-118.2864,ARCO
-1994,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,237000,ARCO,33.7729,-118.2864,ARCO
-1995,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,237000,ARCO,33.7729,-118.2864,ARCO
+1992,82,ARCO,CA,Los Angeles (Carson  Watson),5,237000,ARCO,33.7729,-118.2864,ARCO
+1993,82,ARCO,CA,Los Angeles (Carson  Watson),5,237000,ARCO,33.7729,-118.2864,ARCO
+1994,82,ARCO,CA,Los Angeles (Carson  Watson),5,237000,ARCO,33.7729,-118.2864,ARCO
+1995,82,ARCO,CA,Los Angeles (Carson  Watson),5,237000,ARCO,33.7729,-118.2864,ARCO
 2022,96,Shell,LA,Norco,3,236721,Independent,30.0014,-90.4019,Shell
 2008,96,Motiva Enterprises,LA,Norco,3,236400,Motiva,30.0014,-90.4019,Motiva
 2009,96,Motiva Enterprises,LA,Norco,3,236400,Motiva,30.0014,-90.4019,Motiva
@@ -1196,7 +1196,7 @@
 2016,664,Valero Refining of Texas,TX,Texas City,3,225000,Valero,29.3781,-94.8953,Valero
 2017,664,Valero Refining of Texas,TX,Texas City,3,225000,Valero,29.3781,-94.8953,Valero
 1994,16,BP Oil,LA,Belle Chasse (Alliance),3,223200,BP,29.6830,-89.9747,BP
-1991,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,223000,ARCO,33.7729,-118.2864,ARCO
+1991,82,ARCO,CA,Los Angeles (Carson  Watson),5,223000,ARCO,33.7729,-118.2864,ARCO
 2000,60,Arco Products,WA,Ferndale (Cherry Point),5,222720,ARCO,48.8846,-122.7349,ARCO
 2001,60,Atlantic Richfield,WA,Ferndale (Cherry Point),5,222720,ARCO,48.8846,-122.7349,ARCO
 1961,163,Amoco Oil,IN,Whiting,2,222000,Independent,41.6685,-87.4811,Amoco
@@ -1221,7 +1221,7 @@
 2006,28,Marathon Petroleum,KY,Catlettsburg,2,222000,Marathon,38.3771,-82.5967,Marathon
 2007,28,Marathon Petroleum,KY,Catlettsburg,2,222000,Marathon,38.3771,-82.5967,Marathon
 1993,16,BP Oil,LA,Belle Chasse (Alliance),3,221000,BP,29.6830,-89.9747,BP
-1990,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,220000,ARCO,33.7729,-118.2864,ARCO
+1990,82,ARCO,CA,Los Angeles (Carson  Watson),5,220000,ARCO,33.7729,-118.2864,ARCO
 1982,28,Ashland Petroleum,KY,Catlettsburg,2,220000,Ashland,38.3771,-82.5967,Ashland
 1983,28,Ashland Petroleum,KY,Catlettsburg,2,220000,Ashland,38.3771,-82.5967,Ashland
 1959,15,Magnolia Petroleum,TX,Beaumont,3,220000,Magnolia Petroleum,30.0675,-94.0705,Magnolia Petroleum
@@ -1256,13 +1256,13 @@
 1988,96,Shell Oil,LA,Norco,3,218000,Independent,30.0014,-90.4019,Shell
 1997,96,Shell Oil,LA,Norco,3,218000,Independent,30.0014,-90.4019,Shell
 2004,143,ConocoPhillips,TX,Sweeny,3,217000,ConocoPhillips,29.0735,-95.7499,ConocoPhillips
-1987,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,216000,ARCO,33.7729,-118.2864,ARCO
+1987,82,ARCO,CA,Los Angeles (Carson  Watson),5,216000,ARCO,33.7729,-118.2864,ARCO
 1992,16,BP Oil,LA,Belle Chasse (Alliance),3,216000,BP,29.6830,-89.9747,BP
 1958,163,Amoco Oil,IN,Whiting,2,215800,Independent,41.6685,-87.4811,Amoco
 1959,163,Amoco Oil,IN,Whiting,2,215800,Independent,41.6685,-87.4811,Amoco
 1960,163,Amoco Oil,IN,Whiting,2,215800,Independent,41.6685,-87.4811,Amoco
-1983,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,215000,ARCO,33.7729,-118.2864,ARCO
-1986,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,215000,ARCO,33.7729,-118.2864,ARCO
+1983,82,ARCO,CA,Los Angeles (Carson  Watson),5,215000,ARCO,33.7729,-118.2864,ARCO
+1986,82,ARCO,CA,Los Angeles (Carson  Watson),5,215000,ARCO,33.7729,-118.2864,ARCO
 1989,96,Shell Oil,LA,Norco,3,215000,Independent,30.0014,-90.4019,Shell
 1990,96,Shell Oil,LA,Norco,3,215000,Independent,30.0014,-90.4019,Shell
 1991,96,Shell Oil,LA,Norco,3,215000,Independent,30.0014,-90.4019,Shell
@@ -1282,8 +1282,8 @@
 2015,97,Valero Refining New Orleans,LA,Good Hope (Metairie Norco),3,215000,Valero,29.9913,-90.4006,Valero
 2016,97,Valero Refining New Orleans,LA,Good Hope (Metairie Norco),3,215000,Valero,29.9913,-90.4006,Valero
 2017,97,Valero Refining New Orleans,LA,Good Hope (Metairie Norco),3,215000,Valero,29.9913,-90.4006,Valero
-1988,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,214000,ARCO,33.7729,-118.2864,ARCO
-1989,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,214000,ARCO,33.7729,-118.2864,ARCO
+1988,82,ARCO,CA,Los Angeles (Carson  Watson),5,214000,ARCO,33.7729,-118.2864,ARCO
+1989,82,ARCO,CA,Los Angeles (Carson  Watson),5,214000,ARCO,33.7729,-118.2864,ARCO
 2010,664,Valero Refining of Texas,TX,Texas City,3,214000,Valero,29.3781,-94.8953,Valero
 2006,664,Valero Refining of Texas,TX,Texas City,3,213750,Valero,29.3781,-94.8953,Valero
 1984,28,Ashland Petroleum,KY,Catlettsburg,2,213400,Ashland,38.3771,-82.5967,Ashland
@@ -1305,7 +1305,7 @@
 2001,143,Phillips 66,TX,Sweeny,3,213000,Phillips 66,29.0735,-95.7499,Phillips 66
 2002,143,Phillips 66,TX,Sweeny,3,213000,Phillips 66,29.0735,-95.7499,Phillips 66
 2003,143,Phillips 66,TX,Sweeny,3,213000,Phillips 66,29.0735,-95.7499,Phillips 66
-1981,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,212000,ARCO,33.7729,-118.2864,ARCO
+1981,82,ARCO,CA,Los Angeles (Carson  Watson),5,212000,ARCO,33.7729,-118.2864,ARCO
 2000,112,Clark Refining & Marketing,TX,Port Arthur,3,212000,Clark,29.8833,-93.9593,Clark
 2014,119,Marathon Petroleum,IL,Robinson,2,212000,Marathon,38.9970,-87.7169,Marathon
 2015,119,Marathon Petroleum,IL,Robinson,2,212000,Marathon,38.9970,-87.7169,Marathon
@@ -1314,7 +1314,7 @@
 2011,28,Marathon Petroleum,KY,Catlettsburg,2,212000,Marathon,38.3771,-82.5967,Marathon
 2019,37,Royal Dutch/Shell Group,LA,Convent,3,211270,Independent,30.1108,-90.8960,Shell
 2020,37,Royal Dutch/Shell Group,LA,Convent,3,211146,Independent,30.1108,-90.8960,Shell
-1985,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,211000,ARCO,33.7729,-118.2864,ARCO
+1985,82,ARCO,CA,Los Angeles (Carson  Watson),5,211000,ARCO,33.7729,-118.2864,ARCO
 1972,67,ARCO,TX,Houston,3,210000,ARCO,29.7146,-95.2322,ARCO
 1973,67,ARCO,TX,Houston,3,210000,ARCO,29.7146,-95.2322,ARCO
 1974,67,ARCO,TX,Houston,3,210000,ARCO,29.7146,-95.2322,ARCO
@@ -1359,7 +1359,7 @@
 2013,119,Marathon Petroleum,IL,Robinson,2,206000,Marathon,38.9970,-87.7169,Marathon
 2018,110,Phillips 66,OK,Ponca City,2,206000,Phillips 66,36.6824,-97.0958,Phillips 66
 2021,110,Phillips 66,OK,Ponca City,2,206000,Phillips 66,36.6824,-97.0958,Phillips 66
-1984,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,205000,ARCO,33.7729,-118.2864,ARCO
+1984,82,ARCO,CA,Los Angeles (Carson  Watson),5,205000,ARCO,33.7729,-118.2864,ARCO
 2007,145,BP Products North America,TX,Texas City (Galveston Bay),3,205000,BP,29.3749,-94.9337,BP
 1990,118,Chevron USA,CA,Richmond,5,205000,Chevron,37.9498,-122.3988,Chevron
 1958,15,Magnolia Petroleum,TX,Beaumont,3,205000,Magnolia Petroleum,30.0675,-94.0705,Magnolia Petroleum
@@ -1536,7 +1536,7 @@
 2009,97,Valero Refining New Orleans,LA,Good Hope (Metairie Norco),3,185003,Valero,29.9913,-90.4006,Valero
 2010,97,Valero Refining New Orleans,LA,Good Hope (Metairie Norco),3,185003,Valero,29.9913,-90.4006,Valero
 2005,97,Valero Saint Charles Refinery,LA,Good Hope (Metairie Norco),3,185003,Valero,29.9913,-90.4006,Valero
-1975,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,185000,ARCO,33.7729,-118.2864,ARCO
+1975,82,ARCO,CA,Los Angeles (Carson  Watson),5,185000,ARCO,33.7729,-118.2864,ARCO
 1972,215,ARCO,PA,Philadelphia (Point Breeze Girard Point),1,185000,ARCO,39.9100,-75.2030,ARCO
 1973,215,ARCO,PA,Philadelphia (Point Breeze Girard Point),1,185000,ARCO,39.9100,-75.2030,ARCO
 1974,215,ARCO,PA,Philadelphia (Point Breeze Girard Point),1,185000,ARCO,39.9100,-75.2030,ARCO
@@ -1623,15 +1623,15 @@
 1953,12,Standard Oil of New Jersy,LA,Baton Rouge,3,182000,Independent,30.4881,-91.1788,Standard Oil of New Jersy
 1954,12,Standard Oil of New Jersy,LA,Baton Rouge,3,182000,Independent,30.4881,-91.1788,Standard Oil of New Jersy
 1999,29,Chalmette Refining,LA,Chalmette,3,181600,Independent,29.9351,-89.9748,Chalmette
-1976,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,181500,ARCO,33.7729,-118.2864,ARCO
+1976,82,ARCO,CA,Los Angeles (Carson  Watson),5,181500,ARCO,33.7729,-118.2864,ARCO
 2006,44,Premcor Refining Group,DE,Delaware City,1,181500,Premcor,39.5779,-75.5888,Premcor
 1992,60,ARCO,WA,Ferndale (Cherry Point),5,181000,ARCO,48.8846,-122.7349,ARCO
 1974,16,Gulf Oil,LA,Belle Chasse (Alliance),3,180400,Gulf Oil,29.6830,-89.9747,Gulf Oil
 1975,16,Gulf Oil,LA,Belle Chasse (Alliance),3,180400,Gulf Oil,29.6830,-89.9747,Gulf Oil
 1976,16,Gulf Oil,LA,Belle Chasse (Alliance),3,180400,Gulf Oil,29.6830,-89.9747,Gulf Oil
-1978,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,180000,ARCO,33.7729,-118.2864,ARCO
-1979,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,180000,ARCO,33.7729,-118.2864,ARCO
-1980,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,180000,ARCO,33.7729,-118.2864,ARCO
+1978,82,ARCO,CA,Los Angeles (Carson  Watson),5,180000,ARCO,33.7729,-118.2864,ARCO
+1979,82,ARCO,CA,Los Angeles (Carson  Watson),5,180000,ARCO,33.7729,-118.2864,ARCO
+1980,82,ARCO,CA,Los Angeles (Carson  Watson),5,180000,ARCO,33.7729,-118.2864,ARCO
 2004,186,ConocoPhillips,PA,Marcus Hook (Trainer),1,180000,ConocoPhillips,39.8136,-75.4239,ConocoPhillips
 1977,68,Mobil Oil,IL,Joliet,2,180000,Mobil Oil,41.4146,-88.1833,Mobil Oil
 1978,68,Mobil Oil,IL,Joliet,2,180000,Mobil Oil,41.4146,-88.1833,Mobil Oil
@@ -1720,7 +1720,7 @@
 2017,78,PDV Midwest Refining,IL,Lemont (Chicago),2,175940,Independent,41.6584,-88.0470,PDV America
 2003,113,Atofina Petrochemicals,TX,Port Arthur (Atreco),3,175068,Independent,29.9985,-93.9843,Petrofina
 2004,113,Atofina Petrochemicals,TX,Port Arthur (Atreco),3,175068,Independent,29.9985,-93.9843,Petrofina
-1977,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,175000,ARCO,33.7729,-118.2864,ARCO
+1977,82,ARCO,CA,Los Angeles (Carson  Watson),5,175000,ARCO,33.7729,-118.2864,ARCO
 1955,76,Cities Service,LA,Lake Charles,3,175000,Independent,30.1336,-93.3210,Cities Service
 1956,76,Cities Service,LA,Lake Charles,3,175000,Independent,30.1336,-93.3210,Cities Service
 1997,119,Marathon Oil,IL,Robinson,2,175000,Marathon,38.9970,-87.7169,Marathon
@@ -1878,7 +1878,7 @@
 1958,118,Standard Oil of California,CA,Richmond,5,167000,Independent,37.9498,-122.3988,Socal
 2013,113,Total Petrochemicals & Refining USA,TX,Port Arthur (Atreco),3,167000,Total,29.9985,-93.9843,Total
 2018,87,Andeavor,CA,Martinez (Golden Eagle Avon),5,166000,Andeavor,38.0189,-122.1132,Andeavor
-1982,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,166000,ARCO,33.7729,-118.2864,ARCO
+1982,82,ARCO,CA,Los Angeles (Carson  Watson),5,166000,ARCO,33.7729,-118.2864,ARCO
 1993,119,Marathon Oil,IL,Robinson,2,166000,Marathon,38.9970,-87.7169,Marathon
 1994,119,Marathon Oil,IL,Robinson,2,166000,Marathon,38.9970,-87.7169,Marathon
 1995,119,Marathon Oil,IL,Robinson,2,166000,Marathon,38.9970,-87.7169,Marathon
@@ -1900,25 +1900,25 @@
 2002,87,Ultramar,CA,Martinez (Golden Eagle Avon),5,166000,Independent,38.0189,-122.1132,Ultramar
 2002,107,Valero Refining New Jersey,NJ,Paulsboro,1,166000,Valero,39.8403,-75.2574,Valero
 1991,113,American Petrofina,TX,Port Arthur (Atreco),3,165000,American Petrofina,29.9985,-93.9843,American Petrofina
-1966,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1967,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1968,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1969,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1970,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1971,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1972,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1973,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
-1974,82,ARCO,CA,"Los Angeles (Carson, Watson)",5,165000,ARCO,33.7729,-118.2864,ARCO
+1966,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1967,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1968,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1969,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1970,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1971,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1972,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1973,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
+1974,82,ARCO,CA,Los Angeles (Carson  Watson),5,165000,ARCO,33.7729,-118.2864,ARCO
 2013,163,BP Products North America,IN,Whiting,2,165000,BP,41.6685,-87.4811,BP
 1973,161,Conoco,LA,Westlake (Lake Charles),3,165000,Conoco,30.1835,-93.3291,Conoco
 2024,38,PDV America,TX,Corpus Christi,3,165000,Independent,27.8096,-97.4283,PDV America
-1959,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1960,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1961,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1962,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1963,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1964,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1965,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1959,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1960,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1961,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1962,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1963,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1964,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1965,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,165000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1955,118,Standard Oil of California,CA,Richmond,5,165000,Independent,37.9498,-122.3988,Socal
 1956,118,Standard Oil of California,CA,Richmond,5,165000,Independent,37.9498,-122.3988,Socal
 1957,118,Standard Oil of California,CA,Richmond,5,165000,Independent,37.9498,-122.3988,Socal
@@ -2667,8 +2667,8 @@
 1999,152,Mobil Oil,CA,Torrance,5,130000,Mobil Oil,33.8533,-118.3322,Mobil Oil
 2001,25,Phillips 66,TX,Borger (Phillips),3,130000,Phillips 66,35.6983,-101.3623,Phillips 66
 2002,25,Phillips 66,TX,Borger (Phillips),3,130000,Phillips 66,35.6983,-101.3623,Phillips 66
-1955,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,130000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1956,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,130000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1955,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,130000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1956,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,130000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1991,215,Sun Refining & Marketing,PA,Philadelphia (Point Breeze Girard Point),1,130000,Independent,39.9100,-75.2030,Sat
 1992,215,Sun Refining & Marketing,PA,Philadelphia (Point Breeze Girard Point),1,130000,Sun,39.9100,-75.2030,Sun
 1993,215,Sun Refining & Marketing,PA,Philadelphia (Point Breeze Girard Point),1,130000,Independent,39.9100,-75.2030,Mon
@@ -2680,8 +2680,8 @@
 2012,113,Total Petrochemicals,TX,Port Arthur (Atreco),3,130000,Total,29.9985,-93.9843,Total
 1999,18,Exxon USA,CA,Benicia,5,129500,Exxon,38.0721,-122.1383,Exxon
 2000,18,ExxonMobil Refining & Supply,CA,Benicia,5,129500,ExxonMobil,38.0721,-122.1383,ExxonMobil
-1957,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,129500,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1958,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,129500,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1957,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,129500,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1958,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,129500,Richfield Oil,33.7729,-118.2864,Richfield Oil
 2001,18,Valero Refining California,CA,Benicia,5,129500,Valero,38.0721,-122.1383,Valero
 1988,206,Shell Oil,CA,Wilmington,5,129000,Independent,33.7730,-118.2865,Shell
 1997,151,Sun,OH,Toledo,2,129000,Sun,41.6792,-83.4536,Sun
@@ -3645,9 +3645,9 @@
 1994,51,Texaco Refining & Marketing,KS,El Dorado,2,95700,Texaco,37.7977,-96.8724,Texaco
 2007,113,Total Petrochemicals,TX,Port Arthur (Atreco),3,95500,Total,29.9985,-93.9843,Total
 1970,309,Amoco Oil,IL,Wood River,2,95000,Independent,38.8373,-90.0649,Amoco
-1994,58,BHP Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,95000,Independent,21.3131,-158.0090,BHP
-1995,58,BHP Petroleum Americas Refining,HI,"Ewa Beach (Kapolei, Barbers Point)",5,95000,Independent,21.3131,-158.0090,BHP
-1996,58,BHP Petroleum Americas Refining,HI,"Ewa Beach (Kapolei, Barbers Point)",5,95000,Independent,21.3131,-158.0090,BHP
+1994,58,BHP Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,95000,Independent,21.3131,-158.0090,BHP
+1995,58,BHP Petroleum Americas Refining,HI,Ewa Beach (Kapolei  Barbers Point),5,95000,Independent,21.3131,-158.0090,BHP
+1996,58,BHP Petroleum Americas Refining,HI,Ewa Beach (Kapolei  Barbers Point),5,95000,Independent,21.3131,-158.0090,BHP
 1977,39,Coastal Refining & Marketing,TX,Corpus Christi,3,95000,Coastal,27.8160,-97.4876,Coastal
 1991,39,Coastal Refining & Marketing,TX,Corpus Christi,3,95000,Coastal,27.8160,-97.4876,Coastal
 1993,39,Coastal Refining & Marketing,TX,Corpus Christi,3,95000,Coastal,27.8160,-97.4876,Coastal
@@ -3728,25 +3728,25 @@
 2011,166,Tesoro Refining & Marketing,CA,Wilmington,5,94300,Tesoro,33.7730,-118.2864,Tesoro
 1971,309,Amoco Oil,IL,Wood River,2,94000,Independent,38.8373,-90.0649,Amoco
 1994,3,Shell Oil,WA,Anacortes,5,93700,Independent,48.4707,-122.5563,Shell
-1997,58,BHP Petroleum Americas Refining,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Independent,21.3131,-158.0090,BHP
-2016,58,Hawaiian Independent Energy,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Independent,21.3131,-158.0090,Hawaiian Independent Energy
-2014,58,Par Petroleum,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Independent,21.3131,-158.0090,Par Petroleum
-2015,58,Par Petroleum,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Independent,21.3131,-158.0090,Par Petroleum
-1999,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2000,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2001,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2002,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2003,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2004,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2005,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2006,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2007,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2008,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2009,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2010,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2011,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2012,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
-2013,58,Tesoro Hawaii,HI,"Ewa Beach (Kapolei, Barbers Point)",5,93500,Tesoro,21.3131,-158.0090,Tesoro
+1997,58,BHP Petroleum Americas Refining,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Independent,21.3131,-158.0090,BHP
+2016,58,Hawaiian Independent Energy,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Independent,21.3131,-158.0090,Hawaiian Independent Energy
+2014,58,Par Petroleum,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Independent,21.3131,-158.0090,Par Petroleum
+2015,58,Par Petroleum,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Independent,21.3131,-158.0090,Par Petroleum
+1999,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2000,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2001,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2002,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2003,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2004,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2005,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2006,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2007,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2008,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2009,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2010,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2011,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2012,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
+2013,58,Tesoro Hawaii,HI,Ewa Beach (Kapolei  Barbers Point),5,93500,Tesoro,21.3131,-158.0090,Tesoro
 1983,186,BP Oil,PA,Marcus Hook (Trainer),1,93200,BP,39.8136,-75.4239,BP
 1935,163,Amoco Oil,IN,Whiting,2,93000,Independent,41.6685,-87.4811,Amoco
 1973,104,Crown Central Petroleum,TX,Pasadena (Houston),3,93000,Independent,29.7146,-95.2322,Crown Central Petroleum
@@ -3778,9 +3778,9 @@
 1988,90,Murphy Oil USA,LA,Meraux,3,92500,Independent,29.9340,-89.9408,Murphy Oil
 1989,90,Murphy Oil USA,LA,Meraux,3,92500,Independent,29.9340,-89.9408,Murphy Oil
 1990,90,Murphy Oil USA,LA,Meraux,3,92500,Independent,29.9340,-89.9408,Murphy Oil
-1993,58,BHP Petroleum Americas Refining,HI,"Ewa Beach (Kapolei, Barbers Point)",5,92000,Independent,21.3131,-158.0090,BHP
+1993,58,BHP Petroleum Americas Refining,HI,Ewa Beach (Kapolei  Barbers Point),5,92000,Independent,21.3131,-158.0090,BHP
 2004,59,ConocoPhillips,WA,Ferndale,5,92000,ConocoPhillips,48.8305,-122.6966,ConocoPhillips
-1992,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,92000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1992,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,92000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 2003,59,Phillips 66,WA,Ferndale,5,92000,Phillips 66,48.8305,-122.6966,Phillips 66
 1972,188,Texaco,IL,Lawrenceville,2,92000,Texaco,38.7292,-87.6817,Texaco
 1973,188,Texaco,IL,Lawrenceville,2,92000,Texaco,38.7292,-87.6817,Texaco
@@ -3816,7 +3816,7 @@
 1985,39,Coastal Refining & Marketing,TX,Corpus Christi,3,90250,Coastal,27.8160,-97.4876,Coastal
 1987,39,Coastal Refining & Marketing,TX,Corpus Christi,3,90250,Coastal,27.8160,-97.4876,Coastal
 1989,39,Coastal Refining & Marketing,TX,Corpus Christi,3,90250,Coastal,27.8160,-97.4876,Coastal
-1991,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,90250,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1991,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,90250,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1984,90,Murphy Oil USA,LA,Meraux,3,90200,Independent,29.9340,-89.9408,Murphy Oil
 1979,113,American Petrofina,TX,Port Arthur (Atreco),3,90000,American Petrofina,29.9985,-93.9843,American Petrofina
 1988,113,American Petrofina,TX,Port Arthur (Atreco),3,90000,American Petrofina,29.9985,-93.9843,American Petrofina
@@ -4171,7 +4171,7 @@
 1956,151,Sun,OH,Toledo,2,82000,Sun,41.6792,-83.4536,Sun
 1991,52,Chevron USA,TX,El Paso,3,81900,Chevron,31.7695,-106.3981,Chevron
 1975,161,Conoco,LA,Westlake (Lake Charles),3,81500,Conoco,30.1835,-93.3291,Conoco
-1989,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,81500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1989,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,81500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1971,51,Skelly Oil,KS,El Dorado,2,81500,Skelly Oil,37.7977,-96.8724,Skelly Oil
 2013,125,St Paul Park Refining,MN,Saint Paul Park,2,81500,St Paul Park Refining,44.8524,-93.0002,St Paul Park Refining
 2002,88,NCRA,KS,McPherson,2,81200,Independent,38.3409,-97.6760,NCRA
@@ -4395,7 +4395,7 @@
 2000,88,Cooperative Rfng,KS,McPherson,2,77400,Independent,38.3409,-97.6760,Cooperative Rfng
 2001,88,NCRA,KS,McPherson,2,77400,Independent,38.3409,-97.6760,NCRA
 1957,108,Chevron USA,NJ,Perth Amboy,1,77000,Chevron,40.5068,-74.2654,Chevron
-1990,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,77000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1990,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,77000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1998,59,Mobil Oil,WA,Ferndale,5,77000,Mobil Oil,48.8305,-122.6966,Mobil Oil
 1989,3,Shell Oil,WA,Anacortes,5,77000,Independent,48.4707,-122.5563,Shell
 1985,59,Sohio Oil (BP America),WA,Ferndale,5,77000,Sohio,48.8305,-122.6966,Sohio
@@ -4807,14 +4807,14 @@
 1969,267,Phillips Petroleum,KS,Kansas City,2,70000,Phillips Petroleum,39.1155,-94.5786,Phillips Petroleum
 1970,267,Phillips Petroleum,KS,Kansas City,2,70000,Phillips Petroleum,39.1155,-94.5786,Phillips Petroleum
 1971,267,Phillips Petroleum,KS,Kansas City,2,70000,Phillips Petroleum,39.1155,-94.5786,Phillips Petroleum
-1947,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1948,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1949,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1950,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1951,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1952,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1953,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1954,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1947,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1948,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1949,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1950,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1951,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1952,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1953,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1954,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,70000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1941,168,Shell Oil,IL,Wood River,2,70000,Independent,38.8373,-90.0649,Shell
 1942,168,Shell Oil,IL,Wood River,2,70000,Independent,38.8373,-90.0649,Shell
 1943,168,Shell Oil,IL,Wood River,2,70000,Independent,38.8373,-90.0649,Shell
@@ -4874,8 +4874,8 @@
 1952,109,Gulf Oil,PA,Philadelphia (Girard Point),1,68000,Gulf Oil,39.9526,-75.1652,Gulf Oil
 1953,109,Gulf Oil,PA,Philadelphia (Girard Point),1,68000,Gulf Oil,39.9526,-75.1652,Gulf Oil
 1954,109,Gulf Oil,PA,Philadelphia (Girard Point),1,68000,Gulf Oil,39.9526,-75.1652,Gulf Oil
-1987,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,68000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1988,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,68000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1987,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,68000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1988,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,68000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 2019,70,Marathon Petroleum,AK,Kenai,5,68000,Marathon,60.5544,-151.2583,Marathon
 2020,70,Marathon Petroleum,AK,Kenai,5,68000,Marathon,60.5544,-151.2583,Marathon
 2021,70,Marathon Petroleum,AK,Kenai,5,68000,Marathon,60.5544,-151.2583,Marathon
@@ -4918,8 +4918,8 @@
 1995,165,Ultramar,CA,Wilmington,5,68000,Independent,33.7730,-118.2864,Ultramar
 1996,165,Ultramar,CA,Wilmington,5,68000,Independent,33.7730,-118.2864,Ultramar
 1997,165,Ultramar Diamond Shamrock,CA,Wilmington,5,68000,Independent,33.7730,-118.2864,Ultramar Diamond Shamrock
-1980,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,67900,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1981,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,67900,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1980,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,67900,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1981,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,67900,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1985,38,Champlin Petroleum,TX,Corpus Christi,3,67700,Independent,27.8096,-97.4283,Champlin
 1986,38,Champlin Petroleum,TX,Corpus Christi,3,67700,Independent,27.8096,-97.4283,Champlin
 1996,66,Basis Petroleum,TX,Houston,3,67600,Independent,29.7228,-95.2556,Basis Petroleum
@@ -5203,9 +5203,9 @@
 2022,77,CHS,MT,Laurel,4,62500,Independent,45.6692,-108.7708,CHS
 2023,77,CHS,MT,Laurel,4,62500,Independent,45.6692,-108.7708,CHS
 2024,77,CHS,MT,Laurel,4,62500,Independent,45.6692,-108.7708,CHS
-1978,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1979,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1998,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1978,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1979,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1998,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,62500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1998,72,Hill Petroleum,LA,Krotz Springs,3,62300,Independent,30.5288,-91.7501,Hill Petroleum
 1981,66,Charter International Oil,TX,Houston,3,62055,Independent,29.7228,-95.2556,Charter Oil
 1982,66,Charter International Oil,TX,Houston,3,62055,Independent,29.7228,-95.2556,Charter Oil
@@ -5252,9 +5252,9 @@
 2022,22,ExxonMobil,MT,Billings,4,61500,ExxonMobil,45.8146,-108.4345,ExxonMobil
 2023,22,ExxonMobil,MT,Billings,4,61500,ExxonMobil,45.8146,-108.4345,ExxonMobil
 2017,22,ExxonMobil Refg & Supply,MT,Billings,4,61500,ExxonMobil,45.8146,-108.4345,ExxonMobil
-1984,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1985,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1986,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1984,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1985,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1986,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,61500,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 2024,22,Par Petroleum,MT,Billings,4,61500,Independent,45.8146,-108.4345,Par Petroleum
 1977,5,Vickers Petroleum,OK,Ardmore,2,61275,Independent,34.2050,-97.1048,Vickers Petroleum
 2004,20,Alon USA LP,TX,Big Spring,3,61000,Alon,32.2710,-101.4151,Alon
@@ -5334,12 +5334,12 @@
 2017,21,Phillips 66,MT,Billings,4,60000,Phillips 66,45.7822,-108.4888,Phillips 66
 2018,21,Phillips 66,MT,Billings,4,60000,Phillips 66,45.7822,-108.4888,Phillips 66
 2019,21,Phillips 66,MT,Billings,4,60000,Phillips 66,45.7822,-108.4888,Phillips 66
-1941,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1942,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1943,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1944,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1945,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1946,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1941,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1942,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1943,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1944,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1945,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1946,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,60000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1932,1298,Shell Oil,CA,Watson,5,60000,Independent,33.8084,-118.2348,Shell
 1941,635,Sinclair Refining,TX,Houston,3,60000,Sinclair,29.7146,-95.2321,Sinclair
 1942,635,Sinclair Refining,TX,Houston,3,60000,Sinclair,29.7146,-95.2321,Sinclair
@@ -5446,7 +5446,7 @@
 2007,173,Giant Yorktown Refg,VA,Yorktown (Goodwin Neck),1,59375,Independent,37.2128,-76.4538,Giant Yorktown Refg
 1955,279,Esso Standard Oil,MD,Baltimore,1,59000,Independent,39.2904,-76.6124,Esso
 1956,279,Esso Standard Oil,MD,Baltimore,1,59000,Independent,39.2904,-76.6124,Esso
-1977,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,59000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1977,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,59000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1955,155,Mid Continent Petroleum,OK,Tulsa (West),2,59000,Independent,36.1196,-96.0013,Mid Continent Petroleum
 1956,155,Mid Continent Petroleum,OK,Tulsa (West),2,59000,Independent,36.1196,-96.0013,Mid Continent Petroleum
 2013,21,Phillips 66,MT,Billings,4,59000,Phillips 66,45.7822,-108.4888,Phillips 66
@@ -5615,7 +5615,7 @@
 1994,64,Clark Oil & Refining,IL,Hartford,2,57000,Clark,38.8334,-90.0959,Clark
 1995,64,Clark Oil & Refining,IL,Hartford,2,57000,Clark,38.8334,-90.0959,Clark
 1996,64,Clark Refining & Marketing,IL,Hartford,2,57000,Clark,38.8334,-90.0959,Clark
-1982,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,57000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1982,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,57000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1974,40,Koch Refining,TX,Corpus Christi,3,57000,Independent,27.8160,-97.4876,Koch
 1984,89,Mapco Petroleum,TN,Memphis,2,57000,Independent,35.2676,-89.9781,Mapco
 1985,89,Mapco Petroleum,TN,Memphis,2,57000,Independent,35.2676,-89.9781,Mapco
@@ -5651,7 +5651,7 @@
 1986,34,Farmland Industries,KS,Coffeyville,2,56500,Independent,37.2703,-95.5525,Farmland Industries
 1987,34,Farmland Industries,KS,Coffeyville,2,56500,Independent,37.2703,-95.5525,Farmland Industries
 1988,34,Farmland Industries,KS,Coffeyville,2,56500,Independent,37.2703,-95.5525,Farmland Industries
-1983,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,56490,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1983,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,56490,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1980,84,Amoco Oil,ND,Mandan,2,56000,Independent,46.8504,-100.8817,Amoco
 1981,84,Amoco Oil,ND,Mandan,2,56000,Independent,46.8504,-100.8817,Amoco
 1982,84,Amoco Oil,ND,Mandan,2,56000,Independent,46.8504,-100.8817,Amoco
@@ -6188,13 +6188,13 @@
 1935,25,Phillips Petroleum,TX,Borger (Phillips),3,50000,Phillips Petroleum,35.6983,-101.3623,Phillips Petroleum
 1959,38,Pontiac Refining,TX,Corpus Christi,3,50000,Independent,27.8096,-97.4283,Pontiac Refining
 1961,38,Pontiac Refining,TX,Corpus Christi,3,50000,Independent,27.8096,-97.4283,Pontiac Refining
-1932,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1933,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1934,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1937,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1938,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1939,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1940,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1932,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1933,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1934,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1937,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1938,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1939,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1940,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,50000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1929,811,Richfield Oil of California,CA,Hynes,5,50000,Richfield Oil,33.7647,-118.0991,Richfield Oil
 1932,1082,Richfield Oil of California,CA,Watson,5,50000,Richfield Oil,33.8084,-118.2348,Richfield Oil
 1957,3,Shell Anacortes Refining,WA,Anacortes,5,50000,Independent,48.4707,-122.5563,Shell
@@ -6664,8 +6664,8 @@
 2022,468,Hartree Partners LP,TX,San Antonio,3,45000,Independent,28.5835,-97.8582,Hartree Partners LP
 2023,468,Hartree Partners LP,TX,San Antonio,3,45000,Independent,28.5835,-97.8582,Hartree Partners LP
 2024,468,Hartree Partners LP,TX,San Antonio,3,45000,Independent,28.5835,-97.8582,Hartree Partners LP
-1975,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,45000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1976,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,45000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1975,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,45000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1976,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,45000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 1947,279,Humble Oil,MD,Baltimore,1,45000,Humble Oil,39.2904,-76.6124,Humble Oil
 1948,279,Humble Oil,MD,Baltimore,1,45000,Humble Oil,39.2904,-76.6124,Humble Oil
 1949,279,Humble Oil,MD,Baltimore,1,45000,Humble Oil,39.2904,-76.6124,Humble Oil
@@ -7251,8 +7251,8 @@
 1957,38,Pontiac Refining,TX,Corpus Christi,3,40000,Independent,27.8096,-97.4283,Pontiac Refining
 1958,38,Pontiac Refining,TX,Corpus Christi,3,40000,Independent,27.8096,-97.4283,Pontiac Refining
 1960,38,Pontiac Refining,TX,Corpus Christi,3,40000,Independent,27.8096,-97.4283,Pontiac Refining
-1935,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,40000,Richfield Oil,33.7729,-118.2864,Richfield Oil
-1936,82,Richfield Oil,CA,"Los Angeles (Carson, Watson)",5,40000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1935,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,40000,Richfield Oil,33.7729,-118.2864,Richfield Oil
+1936,82,Richfield Oil,CA,Los Angeles (Carson  Watson),5,40000,Richfield Oil,33.7729,-118.2864,Richfield Oil
 1928,168,Roxana Petroleum,IL,Wood River,2,40000,Independent,38.8373,-90.0649,Roxana Petroleum
 1932,86,Shell of California,CA,Martinez,5,40000,Independent,38.0188,-122.1132,Shell
 1936,206,Shell of California,CA,Wilmington,5,40000,Independent,33.7730,-118.2865,Shell
@@ -8174,8 +8174,8 @@
 1932,860,Gulf Refining,NJ,Bayonne,1,30000,Gulf Oil,40.6686,-74.1143,Gulf Oil
 1933,860,Gulf Refining,NJ,Bayonne,1,30000,Gulf Oil,40.6686,-74.1143,Gulf Oil
 1934,109,Gulf Refining,PA,Philadelphia (Girard Point),1,30000,Gulf Oil,39.9526,-75.1652,Gulf Oil
-1973,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,30000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
-1974,58,Hawaiian Independent Refinery,HI,"Ewa Beach (Kapolei, Barbers Point)",5,30000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1973,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,30000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
+1974,58,Hawaiian Independent Refinery,HI,Ewa Beach (Kapolei  Barbers Point),5,30000,Independent,21.3131,-158.0090,Hawaiian Independent Refinery
 2015,347,Howell,TX,Corpus Christi,3,30000,Independent,27.8160,-97.4876,Howell
 1941,748,Humble Oil & Refining,TX,Ingleside,3,30000,Humble Oil,27.8779,-97.2117,Humble Oil
 1975,132,Louisiana Land & Exploration,AL,Saraland (Mobile),3,30000,Independent,30.7896,-88.0562,Louisiana Land & Exploration
@@ -8500,9 +8500,9 @@
 1997,101,Shell Oil,TX,Odessa,3,28300,Independent,31.8456,-102.3672,Shell
 1972,101,Shell Oil Products,TX,Odessa,3,28300,Independent,31.8456,-102.3672,Shell
 2017,92,Countrymark Coop,IN,Mount Vernon,2,28200,Independent,37.9064,-87.9289,Countrymark Coop
-1980,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
-1981,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
-1982,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
+1980,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
+1981,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
+1982,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,28100,Independent,30.7637,-88.0745,Mobile Bay Refining
 1999,133,Amoco Oil,GA,Savannah,1,28000,Independent,32.0809,-81.0912,Amoco
 2001,133,Amoco Oil,GA,Savannah,1,28000,Independent,32.0809,-81.0912,Amoco
 2002,133,Amoco Oil,GA,Savannah,1,28000,Independent,32.0809,-81.0912,Amoco
@@ -8537,7 +8537,7 @@
 1928,110,Marland Oil,OK,Ponca City,2,28000,Independent,36.6824,-97.0958,Marland Oil
 1929,110,Marland Oil,OK,Ponca City,2,28000,Independent,36.6824,-97.0958,Marland Oil
 1958,499,Mobil Oil,NY,Brooklyn (Greenpoint),1,28000,Mobil Oil,40.6500,-73.9500,Mobil Oil
-1979,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,28000,Independent,30.7637,-88.0745,Mobile Bay Refining
+1979,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,28000,Independent,30.7637,-88.0745,Mobile Bay Refining
 1932,168,Shell Oil,IL,Wood River,2,28000,Independent,38.8373,-90.0649,Shell
 1934,186,Sinclair,PA,Marcus Hook (Trainer),1,28000,Sinclair,39.8136,-75.4239,Sinclair
 1935,186,Sinclair,PA,Marcus Hook (Trainer),1,28000,Sinclair,39.8136,-75.4239,Sinclair
@@ -9727,7 +9727,7 @@
 2013,94,Ergon West Virginia,WV,Newell (Congo),1,20000,Independent,40.6184,-80.6042,Ergon
 1958,279,Esso Standard Oil,MD,Baltimore,1,20000,Independent,39.2904,-76.6124,Esso
 1978,199,Fletcher Oil & Refining,CA,Wilmington,5,20000,Independent,33.7730,-118.2865,Fletcher Oil & Refining
-2014,32,Gulf Atlantic Operations,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,20000,Independent,30.7637,-88.0745,Gulf Atlantic Operations
+2014,32,Gulf Atlantic Operations,AL,Chickasaw (Mobile Bay  Blakely Island),3,20000,Independent,30.7637,-88.0745,Gulf Atlantic Operations
 1982,9,Kern Oil & Refining,CA,Bakersfield (El Tejon Arvin),5,20000,Independent,35.2947,-118.9180,Kern Oil & Refining
 1984,9,Kern Oil & Refining,CA,Bakersfield (El Tejon Arvin),5,20000,Independent,35.2947,-118.9180,Kern Oil & Refining
 1986,9,Kern Oil & Refining,CA,Bakersfield (El Tejon Arvin),5,20000,Independent,35.2947,-118.9180,Kern Oil & Refining
@@ -9774,8 +9774,8 @@
 1938,107,Mobil Oil,NJ,Paulsboro,1,20000,Mobil Oil,39.8403,-75.2574,Mobil Oil
 1939,107,Mobil Oil,NJ,Paulsboro,1,20000,Mobil Oil,39.8403,-75.2574,Mobil Oil
 1940,107,Mobil Oil,NJ,Paulsboro,1,20000,Mobil Oil,39.8403,-75.2574,Mobil Oil
-1983,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,20000,Independent,30.7637,-88.0745,Mobile Bay Refining
-1984,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,20000,Independent,30.7637,-88.0745,Mobile Bay Refining
+1983,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,20000,Independent,30.7637,-88.0745,Mobile Bay Refining
+1984,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,20000,Independent,30.7637,-88.0745,Mobile Bay Refining
 1982,243,Natchez Refining,MS,Natchez,3,20000,Independent,31.5603,-91.4031,Natchez Refining
 1926,96,New Orleans Refining,LA,Norco,3,20000,Independent,30.0014,-90.4019,New Orleans Refining
 1927,96,New Orleans Refining,LA,Norco,3,20000,Independent,30.0014,-90.4019,New Orleans Refining
@@ -10394,11 +10394,11 @@
 1957,250,American Liberty Oil,TX,Mt. Pleasant,3,16500,Independent,33.1567,-94.9681,American Liberty Oil
 1961,484,Berry Refining,IN,Gary,2,16500,Berry,41.5952,-87.3569,Berry
 1973,213,Chevron Asphalt,OR,Portland (Willbridge),5,16500,Chevron,45.5135,-122.6804,Chevron
-1997,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,16500,Coastal,30.7637,-88.0745,Coastal
-1999,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,16500,Coastal,30.7637,-88.0745,Coastal
-2000,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,16500,Coastal,30.7637,-88.0745,Coastal
-2001,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,16500,Coastal,30.7637,-88.0745,Coastal
-2003,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,16500,Coastal,30.7637,-88.0745,Coastal
+1997,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,16500,Coastal,30.7637,-88.0745,Coastal
+1999,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,16500,Coastal,30.7637,-88.0745,Coastal
+2000,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,16500,Coastal,30.7637,-88.0745,Coastal
+2001,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,16500,Coastal,30.7637,-88.0745,Coastal
+2003,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,16500,Coastal,30.7637,-88.0745,Coastal
 1982,74,CPI Refining,LA,Lake Charles,3,16500,Independent,30.1336,-93.3210,CPI Refining
 1959,279,Esso Standard Oil,MD,Baltimore,1,16500,Independent,39.2904,-76.6124,Esso
 1978,237,Golden Eagle Refining,CA,Carson (Torrance),5,16500,Independent,33.7730,-118.2865,Golden Eagle Refining
@@ -10736,8 +10736,8 @@
 1929,567,Citites Service Oil,MA,East Braintree,1,15000,Independent,42.2088,-70.9957,Citites Service Oil
 1930,567,Citites Service Oil,MA,East Braintree,1,15000,Independent,42.2088,-70.9957,Citites Service Oil
 1931,567,Citites Service Oil,MA,East Braintree,1,15000,Independent,42.2088,-70.9957,Citites Service Oil
-1977,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,15000,Coastal,30.7637,-88.0745,Coastal
-1996,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,15000,Coastal,30.7637,-88.0745,Coastal
+1977,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,15000,Coastal,30.7637,-88.0745,Coastal
+1996,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,15000,Coastal,30.7637,-88.0745,Coastal
 1960,36,Conoco,CO,Commerce City (Denver West),4,15000,Conoco,39.8026,-104.9433,Conoco
 1961,36,Conoco,CO,Commerce City (Denver West),4,15000,Conoco,39.8026,-104.9433,Conoco
 1962,36,Conoco,CO,Commerce City (Denver West),4,15000,Conoco,39.8026,-104.9433,Conoco
@@ -11007,7 +11007,7 @@
 1930,456,Tidal Refining,OK,Drumright,2,15000,Independent,35.9884,-96.6011,Tidal Refining
 1935,456,Tidewater Oil,OK,Drumright,2,15000,Independent,35.9884,-96.6011,Tidewater Oil
 1955,456,Tidewater Oil,OK,Drumright,2,15000,Independent,35.9884,-96.6011,Tidewater Oil
-1935,1564,"Tyler, Texas Production & Refining",TX,Tyler,3,15000,Independent,32.3508,-95.3006,"Tyler, Texas Production & Refining"
+1935,1564,Tyler  Texas Production & Refining,TX,Tyler,3,15000,Independent,32.3508,-95.3006,Tyler  Texas Production & Refining
 1936,120,Union Oil of California,CA,San Francisco (Santa Maria Rodeo Oleum),5,15000,Union Oil,38.0452,-122.2560,Union Oil
 1959,160,United Refining,PA,Warren,1,15000,Independent,41.8439,-79.1453,United Refining
 1960,160,United Refining,PA,Warren,1,15000,Independent,41.8439,-79.1453,United Refining
@@ -11082,11 +11082,11 @@
 2003,10,San Joaquin Refining,CA,Bakersfield,5,14300,Independent,35.2947,-118.9180,San Joaquin Refining
 2004,10,San Joaquin Refining,CA,Bakersfield,5,14300,Independent,35.2947,-118.9180,San Joaquin Refining
 2005,10,San Joaquin Refining,CA,Bakersfield,5,14300,Independent,35.2947,-118.9180,San Joaquin Refining
-1970,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,14250,Independent,30.7637,-88.0745,Belcher Refining
-1971,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,14250,Independent,30.7637,-88.0745,Belcher Refining
-1974,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,14250,Coastal,30.7637,-88.0745,Coastal
-1975,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,14250,Coastal,30.7637,-88.0745,Coastal
-1976,32,Coastal Mobile Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,14250,Coastal,30.7637,-88.0745,Coastal
+1970,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,14250,Independent,30.7637,-88.0745,Belcher Refining
+1971,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,14250,Independent,30.7637,-88.0745,Belcher Refining
+1974,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,14250,Coastal,30.7637,-88.0745,Coastal
+1975,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,14250,Coastal,30.7637,-88.0745,Coastal
+1976,32,Coastal Mobile Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,14250,Coastal,30.7637,-88.0745,Coastal
 1977,273,LaJet,LA,St. James,3,14250,Independent,29.9819,-90.8318,LaJet
 1970,176,Sunland Refining,CA,Bakersfield,5,14250,Independent,35.2948,-118.9180,Sunland Refining
 1999,192,Chemoil Refining,CA,Signal Hill (Long Beach),5,14200,Independent,33.8043,-118.1675,Chemoil Refining
@@ -12464,7 +12464,7 @@
 1940,20,Cosden,TX,Big Spring,3,10000,Cosden,32.2710,-101.4151,Cosden
 1981,74,CPI Refining,LA,Lake Charles,3,10000,Independent,30.1336,-93.3210,CPI Refining
 1935,577,Crew Levick,NJ,Petty's Island,1,10000,Independent,39.9648,-75.1030,Crew Levick
-1935,136,"Cross, Henry H,",AR,Smackover,3,10000,Cross,33.3665,-92.7168,Cross
+1935,136,Cross  Henry H ,AR,Smackover,3,10000,Cross,33.3665,-92.7168,Cross
 1932,1313,Crown Oil & Refining,TX,Houston,3,10000,Independent,29.7146,-95.2321,Crown Oil & Refining
 1929,845,Crystal Oil Refining,LA,Cedar Grove,3,10000,Crystal,32.4421,-93.7427,Crystal
 1931,845,Crystal Oil Refining,LA,Cedar Grove,3,10000,Crystal,32.4421,-93.7427,Crystal
@@ -12626,7 +12626,7 @@
 1958,571,Mid-West Refineries,MI,Alma,2,10000,Independent,43.3789,-84.6602,Mid-West Refineries
 1959,571,Mid-West Refineries,MI,Alma,2,10000,Independent,43.3789,-84.6602,Mid-West Refineries
 1961,571,Mid-West Refineries,MI,Alma,2,10000,Independent,43.3789,-84.6602,Mid-West Refineries
-1978,32,Mobile Bay Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,10000,Independent,30.7637,-88.0745,Mobile Bay Refining
+1978,32,Mobile Bay Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,10000,Independent,30.7637,-88.0745,Mobile Bay Refining
 1936,11,Mohawk Refinery,CA,Bakersfield (Mohawk),5,10000,Independent,35.2947,-118.9180,Mohawk Refinery
 2010,63,Montana Refining,MT,Great Falls,4,10000,Independent,47.5053,-111.2991,Montana Refining
 2011,63,Montana Refining,MT,Great Falls,4,10000,Independent,47.5053,-111.2991,Montana Refining
@@ -14292,8 +14292,8 @@
 1945,429,Aetna,KY,Louisville,2,6500,Independent,38.2529,-85.7555,Aetna
 1946,429,Aetna,KY,Louisville,2,6500,Independent,38.2529,-85.7555,Aetna
 1997,129,Age Refining & Marketing,TX,San Antonio (Channelview),3,6500,Independent,29.4240,-98.4917,Age Refining
-1959,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,American Bitumuls,30.7637,-88.0745,American Bitumuls
-1961,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1959,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1961,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,American Bitumuls,30.7637,-88.0745,American Bitumuls
 1955,133,American Oil,GA,Savannah,1,6500,Independent,32.0809,-81.0912,Amoco
 1956,133,American Oil,GA,Savannah,1,6500,Independent,32.0809,-81.0912,Amoco
 1957,133,American Oil,GA,Savannah,1,6500,Independent,32.0809,-81.0912,Amoco
@@ -14311,15 +14311,15 @@
 1948,415,Barnsdall Refining,KS,Wichita,2,6500,Independent,37.6872,-97.3301,Barnsdall
 1949,415,Barnsdall Refining,KS,Wichita,2,6500,Independent,37.6872,-97.3301,Barnsdall
 1950,415,Barnsdall Refining,KS,Wichita,2,6500,Independent,37.6872,-97.3301,Barnsdall
-1960,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1962,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1963,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1964,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1965,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1966,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1967,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1968,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
-1969,32,Belcher Refining,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1960,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1962,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1963,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1964,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1965,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1966,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1967,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1968,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
+1969,32,Belcher Refining,AL,Chickasaw (Mobile Bay  Blakely Island),3,6500,Independent,30.7637,-88.0745,Belcher Refining
 1932,742,Bell Oil & Gas,TX,Pampa,3,6500,Independent,35.5363,-100.9603,Bell Oil & Gas
 2017,116,BP Expl (Alaska),AK,Prudhoe Bay (North Slope),5,6500,BP,70.2534,-148.3783,BP
 2019,116,BP,AK,Prudhoe Bay (North Slope),5,6500,BP,70.2534,-148.3783,BP
@@ -14561,10 +14561,10 @@
 1982,464,Thriftway,NM,Bloomfield,3,6100,Thriftway,36.6993,-107.9709,Thriftway
 1984,464,Thriftway,NM,Bloomfield,3,6100,Thriftway,36.6993,-107.9709,Thriftway
 1928,234,Amarillo Refining,TX,Amarillo,3,6000,Amarillo,35.2220,-101.8316,Amarillo
-1955,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
-1956,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
-1957,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
-1958,32,American Bitumuls & Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1955,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1956,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1957,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
+1958,32,American Bitumuls & Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,American Bitumuls,30.7637,-88.0745,American Bitumuls
 1904,282,American Oil,MO,Sugar Creek,2,6000,Independent,39.1097,-94.4447,Amoco
 1905,282,American Oil,MO,Sugar Creek,2,6000,Independent,39.1097,-94.4447,Amoco
 1906,282,American Oil,MO,Sugar Creek,2,6000,Independent,39.1097,-94.4447,Amoco
@@ -14632,8 +14632,8 @@
 1938,29,Chalmette Petroleum,LA,Chalmette,3,6000,Independent,29.9351,-89.9748,Chalmette
 1939,29,Chalmette Petroleum,LA,Chalmette,3,6000,Independent,29.9351,-89.9748,Chalmette
 1940,29,Chalmette Petroleum,LA,Chalmette,3,6000,Independent,29.9351,-89.9748,Chalmette
-1972,32,Chevron Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,Independent,30.7637,-88.0745,Chevron
-1973,32,Chevron Asphalt,AL,"Chickasaw (Mobile Bay, Blakely Island)",3,6000,Independent,30.7637,-88.0745,Chevron
+1972,32,Chevron Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,Independent,30.7637,-88.0745,Chevron
+1973,32,Chevron Asphalt,AL,Chickasaw (Mobile Bay  Blakely Island),3,6000,Independent,30.7637,-88.0745,Chevron
 1947,567,Citites Service Oil,MA,East Braintree,1,6000,Independent,42.2088,-70.9957,Citites Service Oil
 1932,672,Coastal Petroleum,AL,Mobile,3,6000,Coastal,30.6953,-88.0390,Coastal
 1933,672,Coastal Petroleum,AL,Mobile,3,6000,Coastal,30.6953,-88.0390,Coastal
@@ -14650,13 +14650,13 @@
 1994,136,Cross Oil & Refining,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
 1995,136,Cross Oil & Refining,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
 1996,136,Cross Oil & Refining,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1930,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1931,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1932,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1936,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1955,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1956,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
-1957,136,"Cross, Henry H,",AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1930,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1931,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1932,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1936,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1955,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1956,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
+1957,136,Cross  Henry H ,AR,Smackover,3,6000,Cross,33.3665,-92.7168,Cross
 1947,185,Crystal Refining,MI,Carson City,2,6000,Crystal,43.1770,-84.8464,Crystal
 1948,185,Crystal Refining,MI,Carson City,2,6000,Crystal,43.1770,-84.8464,Crystal
 1949,185,Crystal Refining,MI,Carson City,2,6000,Crystal,43.1770,-84.8464,Crystal
@@ -15538,13 +15538,13 @@
 1931,577,Crew Levick,NJ,Petty's Island,1,5000,Independent,39.9648,-75.1030,Crew Levick
 1972,136,Cross Oil & Refining of Arkansas,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
 1973,136,Cross Oil & Refining of Arkansas,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1929,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1933,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1934,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1937,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1938,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1939,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
-1940,136,"Cross, Henry H,",AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1929,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1933,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1934,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1937,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1938,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1939,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
+1940,136,Cross  Henry H ,AR,Smackover,3,5000,Cross,33.3665,-92.7168,Cross
 1929,1313,Crown Oil & Refining,TX,Houston,3,5000,Independent,29.7146,-95.2321,Crown Oil & Refining
 1928,845,Crystal Oil Refining,LA,Cedar Grove,3,5000,Crystal,32.4421,-93.7427,Crystal
 1927,1114,Crystal Oil Refining,LA,Cedar Grove,3,5000,Crystal,32.4421,-93.7427,Crystal
@@ -16679,7 +16679,7 @@
 1926,1143,Bolene Refining,OK,Enid,2,4000,Independent,36.3955,-97.8784,Bolene Refining
 1935,1522,Broadmore Sales,TX,Kilgore,3,4000,Independent,32.3864,-94.8759,Broadmore Sales
 1928,1050,Brown Process,CA,Hynes,5,4000,Independent,33.7647,-118.0991,Brown Process
-1936,1386,"Bush, RR Refining",CA,Long Beach,5,4000,Independent,33.8736,-118.1631,"Bush, RR Refining"
+1936,1386,Bush  RR Refining,CA,Long Beach,5,4000,Independent,33.8736,-118.1631,Bush  RR Refining
 1928,1375,California Petroleum,WA,Seattle,5,4000,California Petroleum,47.7695,-122.3901,California Petroleum
 1976,33,Canal Refining,LA,Church Point,3,4000,Independent,30.4030,-92.2151,Canal Refining
 1947,321,Carter Oil,MT,Cut Bank,4,4000,Carter Oil,48.6330,-112.3265,Carter Oil
@@ -16738,15 +16738,15 @@
 1953,209,CRA,KS,Phillipsburg,2,4000,CRA,39.7561,-99.3240,CRA
 1954,209,CRA,KS,Phillipsburg,2,4000,CRA,39.7561,-99.3240,CRA
 1929,577,Crew Levick,NJ,Petty's Island,1,4000,Independent,39.9648,-75.1030,Crew Levick
-1928,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1947,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1948,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1949,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1950,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1951,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1952,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1953,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
-1954,136,"Cross, Henry H,",AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1928,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1947,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1948,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1949,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1950,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1951,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1952,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1953,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
+1954,136,Cross  Henry H ,AR,Smackover,3,4000,Cross,33.3665,-92.7168,Cross
 1980,185,Crystal Refining,MI,Carson City,2,4000,Crystal,43.1770,-84.8464,Crystal
 1981,185,Crystal Refining,MI,Carson City,2,4000,Crystal,43.1770,-84.8464,Crystal
 1982,185,Crystal Refining,MI,Carson City,2,4000,Crystal,43.1770,-84.8464,Crystal
@@ -16871,7 +16871,7 @@
 1954,92,Indiana Farm Bureau Cooperative Association,IN,Mount Vernon,2,4000,Independent,37.9064,-87.9289,Indiana Farm Bureau Cooperative Association
 1929,1126,Interocean Oil,MD,Baltimore,1,4000,Independent,39.2904,-76.6124,Interocean Oil
 1929,1127,Interocean Oil,MD,Baltimore,1,4000,Independent,39.2904,-76.6124,Interocean Oil
-1941,707,"Johnston, EC",MS,Vicksburg,3,4000,Independent,32.3867,-90.9076,"Johnston, EC"
+1941,707,Johnston  EC,MS,Vicksburg,3,4000,Independent,32.3867,-90.9076,Johnston  EC
 1933,970,Kent Refining,TX,Angus,3,4000,Kent Refining,32.0063,-96.4330,Kent Refining
 1934,970,Kent Refining,TX,Angus,3,4000,Kent Refining,32.0063,-96.4330,Kent Refining
 1935,970,Kent Refining,TX,Angus,3,4000,Kent Refining,32.0063,-96.4330,Kent Refining
@@ -17198,7 +17198,7 @@
 1940,5,Wirt Franklin Petroleum,OK,Ardmore,2,4000,Independent,34.2050,-97.1048,Wirt Franklin Petroleum
 1973,224,Westco Refining,MT,Cut Bank,4,3982,Independent,48.6330,-112.3265,Westco Refining
 1972,140,Berry Petroleum,AR,Stephens,3,3900,Berry,33.4112,-93.0696,Berry
-1934,1386,"Bush, RR Refining",CA,Long Beach,5,3900,Independent,33.8736,-118.1631,"Bush, RR Refining"
+1934,1386,Bush  RR Refining,CA,Long Beach,5,3900,Independent,33.8736,-118.1631,Bush  RR Refining
 1955,7,Conoco,NM,Artesia (South),3,3900,Conoco,32.8474,-104.3922,Conoco
 1956,7,Conoco,NM,Artesia (South),3,3900,Conoco,32.8474,-104.3922,Conoco
 1957,339,Conoco,NM,Artesia (Malco North),3,3900,Conoco,32.8474,-104.3922,Conoco
@@ -17352,7 +17352,7 @@
 1928,937,Bluebonnet Oil Refining,TX,Wickett,3,3500,Independent,31.5701,-103.0010,Bluebonnet Oil Refining
 1930,937,Bluebonnet Oil Refining,TX,Wickett,3,3500,Independent,31.5701,-103.0010,Bluebonnet Oil Refining
 1928,1326,Brownmoor Oil,CA,Long Beach,5,3500,Independent,33.8736,-118.1631,Brownmoor Oil
-1935,1386,"Bush, RR Refining",CA,Long Beach,5,3500,Independent,33.8736,-118.1631,"Bush, RR Refining"
+1935,1386,Bush  RR Refining,CA,Long Beach,5,3500,Independent,33.8736,-118.1631,Bush  RR Refining
 1926,1146,Cameron Refining,OK,Ardmore,2,3500,Independent,34.2050,-97.1048,Cameron Refining
 1932,527,Caminol,CA,Santa Fe Springs,5,3500,Independent,33.9472,-118.0858,Caminol
 1933,527,Caminol,CA,Santa Fe Springs,5,3500,Independent,33.9472,-118.0858,Caminol
@@ -17621,8 +17621,8 @@
 1944,630,Waggoner Refining,TX,Electra,3,3500,Independent,34.0293,-98.9190,Waggoner Refining
 1945,630,Waggoner Refining,TX,Electra,3,3500,Independent,34.0293,-98.9190,Waggoner Refining
 1946,630,Waggoner Refining,TX,Electra,3,3500,Independent,34.0293,-98.9190,Waggoner Refining
-1926,630,"Waggoner, WT",TX,Electra,3,3500,Independent,34.0293,-98.9190,"Waggoner, WT"
-1927,630,"Waggoner, WT",TX,Electra,3,3500,Independent,34.0293,-98.9190,"Waggoner, WT"
+1926,630,Waggoner  WT,TX,Electra,3,3500,Independent,34.0293,-98.9190,Waggoner  WT
+1927,630,Waggoner  WT,TX,Electra,3,3500,Independent,34.0293,-98.9190,Waggoner  WT
 1972,224,Westco Refining,MT,Cut Bank,4,3500,Independent,48.6330,-112.3265,Westco Refining
 1958,357,Wickett Refining,TX,Wickett,3,3500,Independent,31.5701,-103.0010,Wickett Refining
 1930,450,Yale Oil of SD,MT,Billings,4,3500,Yale Oil,45.7821,-108.4885,Yale Oil
@@ -17654,20 +17654,20 @@
 1978,341,Quaker State Oil Refining,PA,Emlenton,1,3320,Independent,41.1773,-79.7078,Pennzoil
 1979,341,Quaker State Oil Refining,PA,Emlenton,1,3320,Independent,41.1773,-79.7078,Pennzoil
 1980,341,Quaker State Oil Refining,PA,Emlenton,1,3320,Independent,41.1773,-79.7078,Pennzoil
-1958,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1959,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1960,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1961,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1962,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1963,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1964,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1965,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1966,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1967,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1968,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1969,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1970,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
-1971,136,"Cross, Henry H,",AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1958,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1959,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1960,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1961,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1962,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1963,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1964,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1965,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1966,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1967,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1968,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1969,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1970,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
+1971,136,Cross  Henry H ,AR,Smackover,3,3300,Cross,33.3665,-92.7168,Cross
 1933,779,Houston Oil of Texas,AR,Camden,3,3300,Independent,43.0760,-107.2903,Houston Oil of Texas
 1972,348,Howell Hydrocarbons,TX,San Antonio,3,3300,Independent,29.4240,-98.4917,Howell
 1955,580,McNutt Oil & Refining,NM,Brickland (Anapra),3,3300,Independent,32.3266,-106.7754,McNutt Oil & Refining
@@ -17769,8 +17769,8 @@
 1945,5,Ben Franklin Refining,OK,Ardmore,2,3000,Independent,34.2050,-97.1048,Ben Franklin Refining
 1946,5,Ben Franklin Refining,OK,Ardmore,2,3000,Independent,34.2050,-97.1048,Ben Franklin Refining
 1984,140,Berry Petroleum,AR,Stephens,3,3000,Berry,33.4112,-93.0696,Berry
-1932,785,"Bush, RR Refining",CA,Long Beach,5,3000,Independent,33.8736,-118.1631,"Bush, RR Refining"
-1933,785,"Bush, RR Refining",CA,Long Beach,5,3000,Independent,33.8736,-118.1631,"Bush, RR Refining"
+1932,785,Bush  RR Refining,CA,Long Beach,5,3000,Independent,33.8736,-118.1631,Bush  RR Refining
+1933,785,Bush  RR Refining,CA,Long Beach,5,3000,Independent,33.8736,-118.1631,Bush  RR Refining
 1958,616,Cactus Petroleum,TX,LaBlanca,3,3000,Independent,26.2928,-98.0378,Cactus Petroleum
 1926,1113,Caddo-Central Oil & Refining,LA,Cedar Grove,3,3000,Independent,32.4421,-93.7427,Caddo-Central Oil & Refining
 1926,1054,California Petroleum,CA,Coalinga,5,3000,California Petroleum,36.1397,-120.3603,California Petroleum
@@ -17859,12 +17859,12 @@
 1938,596,Crew Levick,PA,Titusville,1,3000,Independent,41.6270,-79.6737,Crew Levick
 1939,596,Crew Levick,PA,Titusville,1,3000,Independent,41.6270,-79.6737,Crew Levick
 1940,596,Crew Levick,PA,Titusville,1,3000,Independent,41.6270,-79.6737,Crew Levick
-1941,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
-1942,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
-1943,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
-1944,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
-1945,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
-1946,136,"Cross, Henry H,",AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1941,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1942,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1943,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1944,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1945,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
+1946,136,Cross  Henry H ,AR,Smackover,3,3000,Cross,33.3665,-92.7168,Cross
 1926,104,Crown Central Petroleum,TX,Pasadena (Houston),3,3000,Independent,29.7146,-95.2322,Crown Central Petroleum
 1927,104,Crown Central Petroleum,TX,Pasadena (Houston),3,3000,Independent,29.7146,-95.2322,Crown Central Petroleum
 1928,104,Crown Central Petroleum,TX,Pasadena (Houston),3,3000,Independent,29.7146,-95.2322,Crown Central Petroleum
@@ -18226,7 +18226,7 @@
 1972,323,Southland Oil,MS,Yazoo City,3,3000,Independent,32.8550,-90.4055,Southland Oil
 1926,268,Standard Oil of Kentucky,KY,Louisville,2,3000,Independent,38.2529,-85.7555,Standard Oil of Kentucky
 1927,268,Standard Oil of Kentucky,KY,Louisville,2,3000,Independent,38.2529,-85.7555,Standard Oil of Kentucky
-1936,1390,"Steiner, W Refining",CA,Long Beach,5,3000,"Steiner, W Refining",33.8736,-118.1631,"Steiner, W Refining"
+1936,1390,Steiner  W Refining,CA,Long Beach,5,3000,Steiner  W Refining,33.8736,-118.1631,Steiner  W Refining
 1933,430,Stoll Oil Refining,KY,Louisville,2,3000,Stoll Oil Refining,38.2529,-85.7555,Stoll Oil Refining
 1936,430,Stoll Oil Refining,KY,Louisville,2,3000,Stoll Oil Refining,38.2529,-85.7555,Stoll Oil Refining
 1937,430,Stoll Oil Refining,KY,Louisville,2,3000,Stoll Oil Refining,38.2529,-85.7555,Stoll Oil Refining
@@ -19095,7 +19095,7 @@
 1929,1092,Wilshire Oil,CA,Fellows,5,2500,Wilshire Oil,35.1786,-119.5412,Wilshire Oil
 1930,1092,Wilshire Oil,CA,Fellows,5,2500,Wilshire Oil,35.1786,-119.5412,Wilshire Oil
 1926,1280,Wilson Bros Refining,TX,Wichita Falls,3,2500,Independent,33.9308,-98.4849,Wilson Bros Refining
-1934,1391,"Wilson, DR Refining",CA,Long Beach,5,2500,Independent,33.8736,-118.1631,"Wilson, DR Refining"
+1934,1391,Wilson  DR Refining,CA,Long Beach,5,2500,Independent,33.8736,-118.1631,Wilson  DR Refining
 1955,355,Wolf's Head Oil Refining Division of Pennzoil,PA,Reno,1,2500,Independent,41.4098,-79.7523,Pennzoil
 1956,355,Wolf's Head Oil Refining Division of Pennzoil,PA,Reno,1,2500,Independent,41.4098,-79.7523,Pennzoil
 1957,355,Wolf's Head Oil Refining Division of Pennzoil,PA,Reno,1,2500,Independent,41.4098,-79.7523,Pennzoil
@@ -19337,8 +19337,8 @@
 1954,339,Anderson,NM,Artesia (Malco North),3,2000,Independent,32.8474,-104.3922,Anderson
 1955,339,Anderson,NM,Artesia (Malco North),3,2000,Independent,32.8474,-104.3922,Anderson
 1956,339,Anderson,NM,Artesia (Malco North),3,2000,Independent,32.8474,-104.3922,Anderson
-1931,1289,"Andrews, Wm P Oil",CA,Long Beach,5,2000,Independent,33.8736,-118.1631,Andrews
-1932,1289,"Andrews, Wm P Oil",CA,Long Beach,5,2000,Independent,33.8736,-118.1631,Andrews
+1931,1289,Andrews  Wm P Oil,CA,Long Beach,5,2000,Independent,33.8736,-118.1631,Andrews
+1932,1289,Andrews  Wm P Oil,CA,Long Beach,5,2000,Independent,33.8736,-118.1631,Andrews
 1935,1517,Apex Refining,TX,Gladewater,3,2000,Independent,32.5365,-94.9428,Apex Refining
 1929,933,Archer Refining,TX,Megargel,3,2000,Independent,33.4509,-98.9245,Archer Refining
 1930,933,Archer Refining,TX,Megargel,3,2000,Independent,33.4509,-98.9245,Archer Refining
@@ -19440,8 +19440,8 @@
 1928,596,Crew Levick,PA,Titusville,1,2000,Independent,41.6270,-79.6737,Crew Levick
 1929,596,Crew Levick,PA,Titusville,1,2000,Independent,41.6270,-79.6737,Crew Levick
 1930,596,Crew Levick,PA,Titusville,1,2000,Independent,41.6270,-79.6737,Crew Levick
-1926,136,"Cross, Henry H,",AR,Smackover,3,2000,Cross,33.3665,-92.7168,Cross
-1927,136,"Cross, Henry H,",AR,Smackover,3,2000,Cross,33.3665,-92.7168,Cross
+1926,136,Cross  Henry H ,AR,Smackover,3,2000,Cross,33.3665,-92.7168,Cross
+1927,136,Cross  Henry H ,AR,Smackover,3,2000,Cross,33.3665,-92.7168,Cross
 1941,185,Crystal Refining,MI,Carson City,2,2000,Crystal,43.1770,-84.8464,Crystal
 1942,185,Crystal Refining,MI,Carson City,2,2000,Crystal,43.1770,-84.8464,Crystal
 1943,185,Crystal Refining,MI,Carson City,2,2000,Crystal,43.1770,-84.8464,Crystal
@@ -19850,9 +19850,9 @@
 1935,1509,Paramount Refining,OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,Paramount Petroleum
 1926,1083,Pauley Oil,CA,Los Angeles,5,2000,Independent,33.7858,-118.2644,Pauley Oil
 1926,1084,Peacock Refining,CA,Los Angeles,5,2000,Independent,33.7858,-118.2644,Peacock Refining
-1933,896,"Peacock, JH",OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,"Peacock, JH"
-1934,896,"Peacock, JH",OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,"Peacock, JH"
-1935,896,"Peacock, JH",OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,"Peacock, JH"
+1933,896,Peacock  JH,OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,Peacock  JH
+1934,896,Peacock  JH,OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,Peacock  JH
+1935,896,Peacock  JH,OK,Oklahoma City,2,2000,Independent,35.4819,-97.5085,Peacock  JH
 1926,1255,Peerless Refining,TX,Wortham,3,2000,Peerless Oil,31.7879,-96.4625,Peerless Oil
 1934,913,Pennsylvania Oil Products Refining,PA,Eldred,1,2000,Independent,41.9578,-78.3853,Pennsylvania Oil Products Refining
 1935,913,Pennsylvania Oil Products Refining,PA,Eldred,1,2000,Independent,41.9578,-78.3853,Pennsylvania Oil Products Refining
@@ -20650,10 +20650,10 @@
 1946,288,Independent Refining,TX,Tucker,3,1500,Independent Refining,31.6735,-95.7480,Independent Refining
 1935,1328,Italo Petroleum of America,CA,Long Beach,5,1500,Independent,33.8736,-118.1631,Italo Petroleum of America
 1936,1328,Italo Petroleum of America,CA,Long Beach,5,1500,Independent,33.8736,-118.1631,Italo Petroleum of America
-1957,314,"Jarvis, SD,",IN,Troy,2,1500,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1958,314,"Jarvis, SD,",IN,Troy,2,1500,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1959,314,"Jarvis, SD,",IN,Troy,2,1500,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1959,137,"Jarvis, SD,",KY,Somerset,2,1500,Independent,37.0919,-84.6042,"Jarvis, SD,"
+1957,314,Jarvis  SD ,IN,Troy,2,1500,Independent,37.9953,-86.7978,Jarvis  SD 
+1958,314,Jarvis  SD ,IN,Troy,2,1500,Independent,37.9953,-86.7978,Jarvis  SD 
+1959,314,Jarvis  SD ,IN,Troy,2,1500,Independent,37.9953,-86.7978,Jarvis  SD 
+1959,137,Jarvis  SD ,KY,Somerset,2,1500,Independent,37.0919,-84.6042,Jarvis  SD 
 1931,708,Joplin Refining,MO,Joplin,2,1500,Independent,37.0842,-94.5133,Joplin Refining
 1932,708,Joplin Refining,MO,Joplin,2,1500,Independent,37.0842,-94.5133,Joplin Refining
 1933,708,Joplin Refining,MO,Joplin,2,1500,Independent,37.0842,-94.5133,Joplin Refining
@@ -20932,7 +20932,7 @@
 1930,1013,Star Refining & Production,TX,Fort Worth,3,1500,Star Refining,32.7555,-97.3308,Star Refining
 1931,1013,Star Refining & Production,TX,Fort Worth,3,1500,Star Refining,32.7555,-97.3308,Star Refining
 1932,1013,Star Refining & Production,TX,Fort Worth,3,1500,Star Refining,32.7555,-97.3308,Star Refining
-1934,1390,"Steiner, W Refining",CA,Long Beach,5,1500,"Steiner, W Refining",33.8736,-118.1631,"Steiner, W Refining"
+1934,1390,Steiner  W Refining,CA,Long Beach,5,1500,Steiner  W Refining,33.8736,-118.1631,Steiner  W Refining
 1935,1494,Sterling Oil & Refining,CA,Bell,5,1500,Sterling,33.9775,-118.1861,Sterling
 1931,430,Stoll Oil Refining,KY,Louisville,2,1500,Stoll Oil Refining,38.2529,-85.7555,Stoll Oil Refining
 1941,430,Stoll Oil Refining,KY,Louisville,2,1500,Stoll Oil Refining,38.2529,-85.7555,Stoll Oil Refining
@@ -21783,24 +21783,24 @@
 1940,209,CRA,KS,Phillipsburg,2,1000,CRA,39.7561,-99.3240,CRA
 1934,1416,Crescent Refining,OK,Holdenville,2,1000,Independent,35.0804,-96.3992,Crescent Refining
 1935,1416,Crescent Refining,OK,Holdenville,2,1000,Independent,35.0804,-96.3992,Crescent Refining
-1941,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1942,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1943,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1944,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1945,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1946,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1947,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1948,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1949,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1950,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1951,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1952,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1953,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1954,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1955,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1956,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1957,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
-1958,338,"Cross, Henry H",IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1941,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1942,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1943,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1944,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1945,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1946,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1947,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1948,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1949,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1950,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1951,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1952,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1953,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1954,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1955,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1956,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1957,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
+1958,338,Cross  Henry H,IL,Colmar,2,1000,Cross,40.3453,-90.8912,Cross
 1926,910,Crystal Oil Works,PA,Rouseville,1,1000,Crystal,41.4689,-79.6909,Crystal
 1927,910,Crystal Oil Works,PA,Rouseville,1,1000,Crystal,41.4689,-79.6909,Crystal
 1928,910,Crystal Oil Works,PA,Rouseville,1,1000,Crystal,41.4689,-79.6909,Crystal
@@ -22218,18 +22218,18 @@
 1929,1328,Italo Petroleum of America,CA,Long Beach,5,1000,Independent,33.8736,-118.1631,Italo Petroleum of America
 1934,1405,Jackson Oil & Refining,MS,Rankin,3,1000,Independent,32.2865,-89.9070,Jackson Oil & Refining
 1935,1405,Jackson Oil & Refining,MS,Rankin,3,1000,Independent,32.2865,-89.9070,Jackson Oil & Refining
-1960,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1961,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1962,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1963,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1964,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1965,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1966,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1967,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1968,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1969,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1970,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
-1971,137,"Jarvis, SD,",KY,Somerset,2,1000,Independent,37.0919,-84.6042,"Jarvis, SD,"
+1960,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1961,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1962,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1963,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1964,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1965,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1966,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1967,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1968,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1969,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1970,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
+1971,137,Jarvis  SD ,KY,Somerset,2,1000,Independent,37.0919,-84.6042,Jarvis  SD 
 1931,1030,Jensen Oil Refining,UT,Ogden,4,1000,Independent,41.2228,-111.9732,Jensen Oil Refining
 1932,1030,Jensen Oil Refining,UT,Ogden,4,1000,Independent,41.2228,-111.9732,Jensen Oil Refining
 1933,1030,Jensen Oil Refining,UT,Ogden,4,1000,Independent,41.2228,-111.9732,Jensen Oil Refining
@@ -22461,16 +22461,16 @@
 1924,395,Miller Petroleum,KS,Humboldt,2,1000,Independent,37.8106,-95.4369,Miller Petroleum
 1925,395,Miller Petroleum,KS,Humboldt,2,1000,Independent,37.8106,-95.4369,Miller Petroleum
 1912,406,Miller Refining,KS,Niotaze,2,1000,Independent,37.0737,-96.0136,Miller Refining
-1926,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1927,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1928,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1929,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1930,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1931,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1932,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1933,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1934,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
-1935,911,"Miller, AD Sons",PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1926,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1927,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1928,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1929,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1930,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1931,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1932,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1933,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1934,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
+1935,911,Miller  AD Sons,PA,Pittsburgh,1,1000,Independent,40.4406,-79.9959,Miller Bros
 1917,187,Milliken Refining,KS,Arkansas City,2,1000,Independent,37.0623,-97.0390,Milliken Refining
 1918,187,Milliken Refining,KS,Arkansas City,2,1000,Independent,37.0623,-97.0390,Milliken Refining
 1919,187,Milliken Refining,KS,Arkansas City,2,1000,Independent,37.0623,-97.0390,Milliken Refining
@@ -22837,7 +22837,7 @@
 1936,524,Seaboard Oil,TX,Texas City,3,1000,Independent,29.3672,-94.9107,Seaboard Oil
 1937,524,Seaboard Oil,TX,Texas City,3,1000,Independent,29.3672,-94.9107,Seaboard Oil
 1938,524,Seaboard Oil,TX,Texas City,3,1000,Independent,29.3672,-94.9107,Seaboard Oil
-1935,1569,"Sealander, Carl",UT,Ogden,4,1000,Independent,41.2228,-111.9732,"Sealander, Carl"
+1935,1569,Sealander  Carl,UT,Ogden,4,1000,Independent,41.2228,-111.9732,Sealander  Carl
 1941,575,Searle Petroleum,NE,Omaha,2,1000,Independent,41.2572,-95.9951,Searle Petroleum
 1942,575,Searle Petroleum,NE,Omaha,2,1000,Independent,41.2572,-95.9951,Searle Petroleum
 1943,575,Searle Petroleum,NE,Omaha,2,1000,Independent,41.2572,-95.9951,Searle Petroleum
@@ -23937,7 +23937,7 @@
 1928,846,Alexandria Refining,LA,Alexandria,3,600,Independent,31.2848,-92.4712,Alexandria Refining
 1926,1191,American Oil Works,PA,Titusville,1,600,Independent,41.6270,-79.6737,American Oil Works
 1927,1191,American Oil Works,PA,Titusville,1,600,Independent,41.6270,-79.6737,American Oil Works
-1934,1479,"Beck, Geo T Refinery",WY,Cody,4,600,Independent,44.5261,-109.0563,Beck
+1934,1479,Beck  Geo T Refinery,WY,Cody,4,600,Independent,44.5261,-109.0563,Beck
 1926,1107,Central Production & Refining,KY,Bowling Green,2,600,Independent,36.9686,-86.4807,Central Production & Refining
 1941,740,Coleman Refining,TX,Coleman,3,600,Independent,31.8274,-99.4264,Coleman Refining
 1928,1135,Colfax Refining,NM,Clovis,3,600,Independent,34.4047,-103.2052,Colfax Refining
@@ -24005,7 +24005,7 @@
 1928,786,Rio Grande Oil,AZ,Phoenix,5,600,Independent,33.4484,-112.0740,Rio Grande Oil
 1929,786,Rio Grande Oil,AZ,Phoenix,5,600,Independent,33.4484,-112.0740,Rio Grande Oil
 1926,1088,Sierra Oil & Refining,CA,Oxnard,5,600,Independent,34.1975,-119.1771,Sierra Oil & Refining
-1933,902,"Singleton, JM",OK,Oklahoma City,2,600,Independent,35.4819,-97.5085,"Singleton, JM"
+1933,902,Singleton  JM,OK,Oklahoma City,2,600,Independent,35.4819,-97.5085,Singleton  JM
 1954,169,Sure-Seal,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Sure-Seal
 1955,169,Sure-Seal,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Sure-Seal
 1956,169,Sure-Seal,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Sure-Seal
@@ -24023,7 +24023,7 @@
 1973,169,Wesreco,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Wesreco
 1974,169,Wesreco,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Wesreco
 1975,169,Wesreco,UT,Woods Cross,4,600,Independent,40.8386,-111.9206,Wesreco
-1935,1496,"Williamson, CA",CA,Artesia,5,600,Independent,32.8474,-104.3922,"Williamson, CA"
+1935,1496,Williamson  CA,CA,Artesia,5,600,Independent,32.8474,-104.3922,Williamson  CA
 1930,867,National Refining,OH,Marietta,2,580,National Refining,39.4154,-81.4547,National Refining
 1931,867,National Refining,OH,Marietta,2,580,National Refining,39.4154,-81.4547,National Refining
 1932,867,National Refining,OH,Marietta,2,580,National Refining,39.4154,-81.4547,National Refining
@@ -24045,7 +24045,7 @@
 1926,798,Associated Oil,CA,Taft,5,500,Associated Oil,35.1425,-119.4565,Associated Oil
 1927,798,Associated Oil,CA,Taft,5,500,Associated Oil,35.1425,-119.4565,Associated Oil
 1935,346,Bay Refining,MI,Bay City,2,500,Independent,43.5941,-83.8895,Bay Refining
-1935,1479,"Beck, Geo T Refinery",WY,Cody,4,500,Independent,44.5261,-109.0563,Beck
+1935,1479,Beck  Geo T Refinery,WY,Cody,4,500,Independent,44.5261,-109.0563,Beck
 1928,351,Big West Oil,MT,Kevin,4,500,Big West,48.7453,-111.9653,Big West
 1930,1312,Bi-State Refining,TX,Burkburnett,3,500,Independent,34.0978,-98.5708,Bi-State Refining
 1931,1312,Bi-State Refining,TX,Burkburnett,3,500,Independent,34.0978,-98.5708,Bi-State Refining
@@ -24154,7 +24154,7 @@
 1926,789,Home Oil & Refining,AR,Hot Springs,3,500,Home Oil & Refining,34.4962,-93.0572,Home Oil & Refining
 1941,747,Houston Oil of Texas,TX,Viola,3,500,Independent,27.8422,-97.5236,Houston Oil of Texas
 1929,1235,Houston Terminal Refining,TX,Houston,3,500,Independent,29.7146,-95.2321,Houston Terminal Refining
-1935,885,"Huckins, JC",OK,Earlsboro,2,500,Independent,35.2675,-96.8034,"Huckins, JC"
+1935,885,Huckins  JC,OK,Earlsboro,2,500,Independent,35.2675,-96.8034,Huckins  JC
 1928,397,Hutchinson Oil Refining,KS,Hutchinson,2,500,Independent,38.0608,-97.9319,Hutchinson
 1926,597,Island Petroleum,PA,Neville Island,1,500,Independent,40.5048,-80.1026,Island Petroleum
 1927,597,Island Petroleum,PA,Neville Island,1,500,Independent,40.5048,-80.1026,Island Petroleum
@@ -24385,8 +24385,8 @@
 1934,452,Yale Oil,MT,Miles City,4,500,Yale Oil,46.4084,-105.8406,Yale Oil
 1935,452,Yale Oil,MT,Miles City,4,500,Yale Oil,46.4084,-105.8406,Yale Oil
 1935,778,Yale Oil,WY,Worland,4,500,Yale Oil,44.0169,-107.9554,Yale Oil
-1933,885,"Huckins, JC",OK,Earlsboro,2,480,Independent,35.2675,-96.8034,"Huckins, JC"
-1934,885,"Huckins, JC",OK,Earlsboro,2,480,Independent,35.2675,-96.8034,"Huckins, JC"
+1933,885,Huckins  JC,OK,Earlsboro,2,480,Independent,35.2675,-96.8034,Huckins  JC
+1934,885,Huckins  JC,OK,Earlsboro,2,480,Independent,35.2675,-96.8034,Huckins  JC
 1977,317,Kentucky Oil & Refining,KY,Betsy Layne,2,470,Independent,37.5535,-82.6313,Kentucky Oil & Refining
 1978,317,Kentucky Oil & Refining,KY,Betsy Layne,2,470,Independent,37.5535,-82.6313,Kentucky Oil & Refining
 1979,317,Kentucky Oil & Refining,KY,Betsy Layne,2,470,Independent,37.5535,-82.6313,Kentucky Oil & Refining
@@ -24582,16 +24582,16 @@
 1945,447,Hart Refineries,MT,Missoula,4,300,Independent,46.8721,-113.9941,Hart Refineries
 1946,447,Hart Refineries,MT,Missoula,4,300,Independent,46.8721,-113.9941,Hart Refineries
 1933,961,Hartfield Refining,TX,Kilgore,3,300,Independent,32.3864,-94.8759,Hartfield Refining
-1947,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1948,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1949,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1950,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1951,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1952,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1953,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1954,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1955,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
-1956,314,"Jarvis, SD,",IN,Troy,2,300,Independent,37.9953,-86.7978,"Jarvis, SD,"
+1947,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1948,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1949,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1950,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1951,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1952,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1953,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1954,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1955,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
+1956,314,Jarvis  SD ,IN,Troy,2,300,Independent,37.9953,-86.7978,Jarvis  SD 
 1958,359,Jet Fuel Refinery,MT,Mosby,4,300,Independent,46.9922,-107.8837,Jet Fuel Refinery
 1934,891,Knox Refining,OK,Covington,2,300,Independent,36.3075,-97.5864,Knox Refining
 1936,807,Kolingo Refining,CA,Coalinga,5,300,Independent,36.1397,-120.3603,Kolingo Refining
@@ -24669,7 +24669,7 @@
 2006,220,Mountaineer Refining,WY,LaBarge,4,280,Independent,42.2619,-110.1946,Mountaineer Refining
 2014,220,Mountaineer Refining,WY,LaBarge,4,280,Independent,42.2619,-110.1946,Mountaineer Refining
 1935,391,Fredonia Oil and Refining,KS,Fredonia,2,275,Independent,38.2445,-96.9281,Fredonia Oil and Refining
-1961,314,"Jarvis, SD,",IN,Troy,2,275,Independent,37.9953,-86.7978,"Jarvis, SD,"
+1961,314,Jarvis  SD ,IN,Troy,2,275,Independent,37.9953,-86.7978,Jarvis  SD 
 1935,1036,Eclipse Oil & Refining,WY,Newcastle,4,270,Independent,43.8498,-104.2151,Eclipse Oil & Refining
 1908,188,Indian Refining,IL,Lawrenceville,2,270,Independent,38.7292,-87.6817,Indian Refining
 1909,188,Indian Refining,IL,Lawrenceville,2,270,Independent,38.7292,-87.6817,Indian Refining
@@ -24828,19 +24828,19 @@
 1926,419,Carnehann Oil,KY,Creelsboro,2,200,Independent,36.8851,-85.1975,Carnehann Oil
 1927,419,Carnehann Oil,KY,Creelsboro,2,200,Independent,36.8851,-85.1975,Carnehann Oil
 1928,419,Carnehann Oil,KY,Creelsboro,2,200,Independent,36.8851,-85.1975,Carnehann Oil
-1959,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1960,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1961,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1962,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1963,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1964,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1965,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1966,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1967,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1968,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1969,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1970,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
-1971,338,"Cross, Henry H",IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1959,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1960,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1961,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1962,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1963,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1964,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1965,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1966,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1967,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1968,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1969,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1970,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
+1971,338,Cross  Henry H,IL,Colmar,2,200,Cross,40.3453,-90.8912,Cross
 1934,855,Deloraine Refining,MT,Oilmont,4,200,Independent,48.7400,-111.8409,Deloraine Refining
 1955,502,Dewese Oil Refinery,OH,Weston,2,200,Independent,41.3448,-83.7972,Dewese Oil Refinery
 1956,502,Dewese Oil Refinery,OH,Weston,2,200,Independent,41.3448,-83.7972,Dewese Oil Refinery
@@ -24887,7 +24887,7 @@
 1984,359,Jet Fuel Refinery,MT,Mosby,4,200,Independent,46.9922,-107.8837,Jet Fuel Refinery
 1933,969,Johnsonville Refining,TX,Omega,3,200,Independent,33.5628,-101.8702,Johnsonville Refining
 1934,969,Johnsonville Refining,TX,Omega,3,200,Independent,33.5628,-101.8702,Johnsonville Refining
-1934,1396,"Lanahan, FP",KS,Larned,2,200,Independent,38.1807,-99.0984,"Lanahan, FP"
+1934,1396,Lanahan  FP,KS,Larned,2,200,Independent,38.1807,-99.0984,Lanahan  FP
 1934,942,MD Carson Refinery,TX,Brady,3,200,Independent,31.1348,-99.3335,MD Carson Refinery
 1947,590,Mercury Oil Refining,OK,Oklahoma City,2,200,Independent,35.4819,-97.5085,Mercury Oil Refining
 1948,590,Mercury Oil Refining,OK,Oklahoma City,2,200,Independent,35.4819,-97.5085,Mercury Oil Refining
@@ -24997,7 +24997,7 @@
 1941,711,Gallup City Refinery,MT,Gallup City,4,150,Independent,48.0939,-112.1131,Gallup City Refinery
 1931,1038,Gillette Refining,WY,Gillette,4,150,Independent,44.2912,-105.5025,Gillette Refining
 1935,1038,Gillette Refining,WY,Gillette,4,150,Independent,44.2912,-105.5025,Gillette Refining
-1960,314,"Jarvis, SD,",IN,Troy,2,150,Independent,37.9953,-86.7978,"Jarvis, SD,"
+1960,314,Jarvis  SD ,IN,Troy,2,150,Independent,37.9953,-86.7978,Jarvis  SD 
 1934,1387,JD Cameron,CA,Bakersfield,5,150,Independent,35.2947,-118.9180,JD Cameron
 1934,1451,OK Refining,TX,Kilgore,3,150,Oklahoma Refining,32.3864,-94.8759,Oklahoma Refining
 1935,1574,Pedro Refinery,WY,Newcastle,4,150,Independent,43.8498,-104.2151,Pedro Refinery
@@ -25123,7 +25123,7 @@
 1929,1160,Miller Bros 101 Ranch,OK,Marland,2,100,Independent,36.5609,-97.1512,Miller Bros
 1930,1160,Miller Bros 101 Ranch,OK,Marland,2,100,Independent,36.5609,-97.1512,Miller Bros
 1931,1160,Miller Bros 101 Ranch,OK,Marland,2,100,Independent,36.5609,-97.1512,Miller Bros
-1934,989,"Mitchell, CB Refinery",TX,Coleman,3,100,Independent,31.8274,-99.4264,"Mitchell, CB Refinery"
+1934,989,Mitchell  CB Refinery,TX,Coleman,3,100,Independent,31.8274,-99.4264,Mitchell  CB Refinery
 1930,617,Muenster Refining,TX,Muenster,3,100,Independent,33.6518,-97.3764,Muenster Refining
 1931,617,Muenster Refining,TX,Muenster,3,100,Independent,33.6518,-97.3764,Muenster Refining
 1930,1028,Nacogdoches Refinery,TX,Nacogdoches,3,100,Independent,31.6035,-94.6555,Nacogdoches Refinery
@@ -25160,7 +25160,7 @@
 1934,1031,Utah Parks Petroleum,UT,Virgin,4,100,Independent,37.2083,-113.1883,Utah Parks Petroleum
 1935,1031,Utah Parks Petroleum,UT,Virgin,4,100,Independent,37.2083,-113.1883,Utah Parks Petroleum
 1926,1213,Viking Oil,PA,Stoneham,1,100,Independent,41.7992,-79.0995,Viking Oil
-1941,720,"Walgren, CE",MT,Cut Bank,4,100,Independent,48.6330,-112.3265,"Walgren, CE"
+1941,720,Walgren  CE,MT,Cut Bank,4,100,Independent,48.6330,-112.3265,Walgren  CE
 1934,865,Walker Oil,NM,Hobbs,3,100,Independent,32.7029,-103.1362,Walker Oil
 1935,865,Walker Oil,NM,Hobbs,3,100,Independent,32.7029,-103.1362,Walker Oil
 1934,1399,Wayne County Oil,KY,Monticello,2,100,Independent,36.7905,-84.8261,Wayne County Oil
@@ -25246,8 +25246,8 @@
 1945,337,Elk Horn Gas Refinery,WY,Osage,4,55,Independent,43.9808,-104.4219,Elk Horn Gas Refinery
 1946,337,Elk Horn Gas Refinery,WY,Osage,4,55,Independent,43.9808,-104.4219,Elk Horn Gas Refinery
 1947,337,Elk Horn Gas Refinery,WY,Osage,4,55,Independent,43.9808,-104.4219,Elk Horn Gas Refinery
-1934,1441,"Hausman, Louis Oil",TX,Laredo,3,55,Independent,27.5067,-99.5029,"Hausman, Louis Oil"
-1935,1441,"Hausman, Louis Oil",TX,Laredo,3,55,Independent,27.5067,-99.5029,"Hausman, Louis Oil"
+1934,1441,Hausman  Louis Oil,TX,Laredo,3,55,Independent,27.5067,-99.5029,Hausman  Louis Oil
+1935,1441,Hausman  Louis Oil,TX,Laredo,3,55,Independent,27.5067,-99.5029,Hausman  Louis Oil
 1926,1130,Abaher Refineries,MT,Kevin,4,50,Independent,48.7453,-111.9653,Abaher Refineries
 1927,1130,Abaher Refineries,MT,Kevin,4,50,Independent,48.7453,-111.9653,Abaher Refineries
 1925,453,Basin Refining,NM,Aztec,3,50,Independent,36.8222,-107.9928,Basin
@@ -25289,15 +25289,15 @@
 1941,697,Greenville Refining,KY,Greenville,2,50,Independent,37.2012,-87.1789,Greenville Refining
 1935,1573,Groner Refinery,WY,Sheridan,4,50,Independent,44.7973,-106.9559,Groner Refinery
 1935,1507,Harrison Refining,NE,Harrison,2,50,Independent,42.6872,-103.8827,Harrison Refining
-1934,711,"Hawley, Ted",MT,Gallup City,4,50,Independent,48.0939,-112.1131,"Hawley, Ted"
-1935,711,"Hawley, Ted",MT,Gallup City,4,50,Independent,48.0939,-112.1131,"Hawley, Ted"
-1934,1443,"Hill, Ray H",TX,Ballinger,3,50,Independent,31.7382,-99.9473,"Hill, Ray H"
+1934,711,Hawley  Ted,MT,Gallup City,4,50,Independent,48.0939,-112.1131,Hawley  Ted
+1935,711,Hawley  Ted,MT,Gallup City,4,50,Independent,48.0939,-112.1131,Hawley  Ted
+1934,1443,Hill  Ray H,TX,Ballinger,3,50,Independent,31.7382,-99.9473,Hill  Ray H
 1934,1481,Huber Refinery,WY,Riverton,4,50,Independent,43.0250,-108.3801,Huber Refinery
 1935,1481,Huber Refinery,WY,Riverton,4,50,Independent,43.0250,-108.3801,Huber Refinery
 1935,1395,Kansas Gasoline,KS,Winfield,2,50,Independent,37.2393,-96.9958,Kansas Gasoline
 1934,270,Lewis Refineries,MT,Lewistown,4,50,Independent,47.0623,-109.4276,Lewis Refineries
 1935,1506,Lewis Refineries,MT,Valentine,4,50,Independent,47.3116,-108.4221,Lewis Refineries
-1934,1411,"McKeehan, CA",MT,Molt,4,50,Independent,45.8613,-108.9279,"McKeehan, CA"
+1934,1411,McKeehan  CA,MT,Molt,4,50,Independent,45.8613,-108.9279,McKeehan  CA
 1926,1205,Mercer Refining,PA,Mercer,1,50,Independent,41.2269,-80.2400,Mercer Refining
 1932,1160,Miller Bros,OK,Marland,2,50,Independent,36.5609,-97.1512,Miller Bros
 1934,1412,Minnesota Flatwillow Petroleum,MT,Cat Creek,4,50,Independent,47.0653,-108.0062,Minnesota Flatwillow Petroleum
@@ -25352,7 +25352,7 @@
 1932,1304,Peninsula Oil,OH,Port Clinton,2,42,Independent,41.5119,-82.9392,Peninsula Oil
 1935,1513,D-H Refining,SD,Spearfish,2,40,Independent,44.4671,-103.9183,D-H Refining
 1932,1036,Eclipse Oil & Refining,WY,Newcastle,4,40,Independent,43.8498,-104.2151,Eclipse Oil & Refining
-1935,1443,"Hill, Ray H",TX,Ballinger,3,40,Independent,31.7382,-99.9473,"Hill, Ray H"
+1935,1443,Hill  Ray H,TX,Ballinger,3,40,Independent,31.7382,-99.9473,Hill  Ray H
 1935,735,Hot Springs Refining,SD,Hot Springs,2,40,Independent,43.4316,-103.4744,Hot Springs Refining
 1933,968,Joce Refinery,TX,Stinnett,3,40,Independent,35.8270,-101.4429,Joce Refinery
 1934,1041,Lusk Oil & Refining,WY,Lusk,4,40,Independent,42.7626,-104.4522,Lusk Oil & Refining
@@ -25368,8 +25368,8 @@
 1935,957,Stephenson-Hickman,TX,Floresville,3,40,Stephenson-Hickman,29.1334,-98.1561,Stephenson-Hickman
 1935,1486,Wyoco Refinery,WY,Powell,4,40,Independent,44.7538,-108.7571,Wyoco Refinery
 1934,1413,Wyoming Production & Refining,MT,Ferdig,4,40,Independent,48.7542,-111.7750,Wyoming Production & Refining
-1934,1187,"Breshears, FG",OK,Wagoner,2,39,Independent,35.9594,-95.3697,"Breshears, FG"
-1935,1187,"Breshears, FG",OK,Wagoner,2,39,Independent,35.9594,-95.3697,"Breshears, FG"
+1934,1187,Breshears  FG,OK,Wagoner,2,39,Independent,35.9594,-95.3697,Breshears  FG
+1935,1187,Breshears  FG,OK,Wagoner,2,39,Independent,35.9594,-95.3697,Breshears  FG
 1932,1041,Lusk Oil & Refining,WY,Lusk,4,36,Independent,42.7626,-104.4522,Lusk Oil & Refining
 1934,650,Pilot Butte Refining,WY,Morton,4,35,Independent,43.2005,-108.7746,Pilot Butte Refining
 1935,650,Pilot Butte Refining,WY,Morton,4,35,Independent,43.2005,-108.7746,Pilot Butte Refining
@@ -25398,11 +25398,11 @@
 1931,1366,Golden West Oil,TX,Hondo,3,25,Independent,29.3476,-99.1417,Golden West Oil
 1934,1366,Golden West Oil,TX,Hondo,3,25,Independent,29.3476,-99.1417,Golden West Oil
 1935,1366,Golden West Oil,TX,Hondo,3,25,Independent,29.3476,-99.1417,Golden West Oil
-1934,1410,"Hoeh, Arthur",MT,Kevin,4,25,Independent,48.7453,-111.9653,"Hoeh, Arthur"
+1934,1410,Hoeh  Arthur,MT,Kevin,4,25,Independent,48.7453,-111.9653,Hoeh  Arthur
 1935,773,Ralston Refinery,WY,Upton,4,25,Independent,44.0997,-104.6280,Ralston Refinery
 1934,443,River Dome Refinery,MT,Roundup,4,25,Independent,46.4452,-108.5418,River Dome Refinery
-1934,1478,"Archer, Roy H",WY,Cody,4,22,Independent,44.5261,-109.0563,Archer
-1935,1576,"Siggins, CJ",WY,Cody,4,22,Independent,44.5261,-109.0563,"Siggins, CJ"
+1934,1478,Archer  Roy H,WY,Cody,4,22,Independent,44.5261,-109.0563,Archer
+1935,1576,Siggins  CJ,WY,Cody,4,22,Independent,44.5261,-109.0563,Siggins  CJ
 1934,868,Peninsula Oil,OH,Catawba Island,2,20,Independent,41.5853,-82.8366,Peninsula Oil
 1935,868,Peninsula Oil,OH,Catawba Island,2,20,Independent,41.5853,-82.8366,Peninsula Oil
 1941,773,Ralston Refinery,WY,Upton,4,20,Independent,44.0997,-104.6280,Ralston Refinery
@@ -25459,7 +25459,7 @@
 1934,1467,Thompson Bros,TX,Burkburnett,3,10,Independent,34.0978,-98.5708,Thompson Bros
 1934,1486,Wyoco Refinery,WY,Powell,4,10,Independent,44.7538,-108.7571,Wyoco Refinery
 1935,1412,Minnesota Flatwillow Petroleum,MT,Cat Creek,4,8,Independent,47.0653,-108.0062,Minnesota Flatwillow Petroleum
-1935,1411,"McKeehan, CA",MT,Molt,4,5,Independent,45.8613,-108.9279,"McKeehan, CA"
+1935,1411,McKeehan  CA,MT,Molt,4,5,Independent,45.8613,-108.9279,McKeehan  CA
 1929,846,Alexandria Refining,LA,Alexandria,3,0,Independent,31.2848,-92.4712,Alexandria Refining
 1930,846,Alexandria Refining,LA,Alexandria,3,0,Independent,31.2848,-92.4712,Alexandria Refining
 1931,846,Alexandria Refining,LA,Alexandria,3,0,Independent,31.2848,-92.4712,Alexandria Refining
