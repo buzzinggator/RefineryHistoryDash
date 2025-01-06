@@ -26,6 +26,8 @@ parents.sort()
 
 
 app1.layout = html.Div([
+    html.H1("History of US Refining"),
+    html.H3("(Scroll down for more figures)"),
     html.Div([
         dcc.Graph(id='mapWithSlider',
                 style={'height': '90vh'}, 
