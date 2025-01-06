@@ -26,8 +26,7 @@ parents.sort()
 
 
 app1.layout = html.Div([
-    html.H1("History of US Refining"),
-    html.H3("(Scroll down for more figures)"),
+    html.H1("History of US Refining (Scroll down for more figures)"),
     html.Div([
         dcc.Graph(id='mapWithSlider',
                 style={'height': '90vh'}, 
@@ -69,8 +68,12 @@ app1.layout = html.Div([
         dcc.Graph(id='stackedBar',
                   style={'height': '80vh'},
                   figure=fig3)
+    ]),
+    html.Div([
+        html.Ul("The data summarized here primarily comes from the following sources:"),
+        html.Li("Petroleum refineries in the United States...(1926,1928-1932)"),
+        html.Li("Petroleum refineries, including cracking plants, in the United States...(1933-1961)")
     ])
-
 ])
 
 
