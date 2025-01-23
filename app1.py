@@ -97,6 +97,7 @@ def updateFigure(selectedYear):
                        color='Parent Company',
                        scope='usa',
                        size='Quantity',
+                       hover_data='Operator',
                        color_discrete_sequence=CSScolors
                        )
     
