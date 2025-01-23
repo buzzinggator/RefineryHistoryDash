@@ -70,9 +70,11 @@ app1.layout = html.Div([
                   figure=fig3)
     ]),
     html.Div([
-        html.Ul("The data summarized here primarily comes from the following sources:"),
-        html.Li("Petroleum refineries in the United States...(1926,1928-1932)"),
-        html.Li("Petroleum refineries, including cracking plants, in the United States...(1933-1961)")
+        html.Ul("The data summarized here is primarily derived from the sources listed below. However, as these sources were voluntary surveys, responded to presumably by facility personnel, in some cases almost a century ago, some data points were inconsistent or missing, particularly the correct names for the parent companies. In many cases, the facility owner was listed as the 'brand' name of the fuel supplier, or some other referenced trade name or wholly-owned subsidiary. In these cases, the parent company information was derived from various internet repositories. Missing data points for single years with continuous company ownership were mostly considered to be improper omissions due to incomplete survey responses. Most of the data here was manually entered and cleaned due to the poor formatting and print quality of the tables in the below mentioned sources. Assuredly, there are numerous data entry errors or errors associated with interpolation or assumption of facility custody transfer. As such, this information should not be relied on as fact for any purpose and this host does not take responsibility for any conclusions derived from this summmary of the data."),
+        html.Li("US Bureau of Mines, 'Petroleum refineries in the United States...', (1926,1928-1932)"),
+        html.Li("US Bureau of Mines, 'Petroleum refineries, including cracking plants, in the United States...', (1933-1961)"),
+        html.li("Oil & Gas Journal, 'Worldwide Refinery Survey Report', (1972-current)"),
+        html.li("US Energy Information Agency, 'Refinery Capacity Report', (1985-current)")
     ])
 ])
 
