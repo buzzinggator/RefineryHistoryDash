@@ -34,9 +34,9 @@ app1.layout = html.Div([
                     }}
                 ),
         dcc.Slider(
-            df['Year'].min(),
-            df['Year'].max(),
-            
+            min=df['Year'].min(),
+            max=df['Year'].max(),
+            step=1,
             tooltip={"placement": "bottom", "always_visible": True},
             
             #marks=None,
